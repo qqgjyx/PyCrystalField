@@ -1,0 +1,1542 @@
+_audit_creation_method            SHELXL-97
+_chemical_name_systematic
+;
+ ?
+;
+_chemical_name_common             ?
+_chemical_melting_point           ?
+_chemical_formula_moiety          ?
+_chemical_formula_sum
+ 'O25 P6 Pb10'
+_chemical_formula_weight          2657.72
+ 
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+ 'O'  'O'   0.0106   0.0060
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+ 'P'  'P'   0.1023   0.0942
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+ 'Pb'  'Pb'  -3.3944  10.1111
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+ 
+_symmetry_cell_setting            trigonal
+_symmetry_space_group_name_H-M    P-3
+ 
+loop_
+ _symmetry_equiv_pos_as_xyz
+ 'x, y, z'
+ '-y, x-y, z'
+ '-x+y, -x, z'
+ '-x, -y, -z'
+ 'y, -x+y, -z'
+ 'x-y, x, -z'
+ 
+_cell_length_a                    9.8109(6)
+_cell_length_b                    9.8109(6)
+_cell_length_c                    14.8403(12)
+_cell_angle_alpha                 90.00
+_cell_angle_beta                  90.00
+_cell_angle_gamma                 120.00
+_cell_volume                      1237.06(15)
+_cell_formula_units_Z             2
+_cell_measurement_temperature     293(2)
+_cell_measurement_reflns_used     3452
+_cell_measurement_theta_min       2.75
+_cell_measurement_theta_max       34.53
+ 
+_exptl_crystal_description        'plate'
+_exptl_crystal_colour             'white'
+_exptl_crystal_size_max           0.06
+_exptl_crystal_size_mid           0.05
+_exptl_crystal_size_min           0.01
+_exptl_crystal_density_meas       ?
+_exptl_crystal_density_diffrn     7.135
+_exptl_crystal_density_method     'not measured'
+_exptl_crystal_F_000              2220
+_exptl_absorpt_coefficient_mu     68.270
+_exptl_absorpt_correction_type    analytical
+_exptl_absorpt_correction_T_min   0.339371
+_exptl_absorpt_correction_T_max   1.00000
+_exptl_absorpt_process_details    'SADABS'
+ 
+_exptl_special_details
+;
+ ?
+;
+ 
+_diffrn_ambient_temperature       293(2)
+_diffrn_radiation_wavelength      0.71073
+_diffrn_radiation_type            MoK\a
+_diffrn_radiation_source          'fine-focus sealed tube'
+_diffrn_radiation_monochromator   graphite
+_diffrn_measurement_device_type   'Bruker Smart CCD'
+_diffrn_measurement_method        ?
+_diffrn_detector_area_resol_mean  ?
+_diffrn_standards_number          ?
+_diffrn_standards_interval_count  ?
+_diffrn_standards_interval_time   ?
+_diffrn_standards_decay_%         ?
+_diffrn_reflns_number             11777
+_diffrn_reflns_av_R_equivalents   0.0885
+_diffrn_reflns_av_sigmaI/netI     0.0955
+_diffrn_reflns_limit_h_min        -6
+_diffrn_reflns_limit_h_max        15
+_diffrn_reflns_limit_k_min        -15
+_diffrn_reflns_limit_k_max        11
+_diffrn_reflns_limit_l_min        -23
+_diffrn_reflns_limit_l_max        22
+_diffrn_reflns_theta_min          2.40
+_diffrn_reflns_theta_max          34.53
+_reflns_number_total              3456
+_reflns_number_gt                 2577
+_reflns_threshold_expression      >2sigma(I)
+ 
+_computing_data_collection        ?
+_computing_cell_refinement        ?
+_computing_data_reduction         ?
+_computing_structure_solution     ?
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)'
+_computing_molecular_graphics     ?
+_computing_publication_material   ?
+ 
+_refine_special_details
+;
+ Refinement of F^2^ against ALL reflections.  The weighted R-factor wR and
+ goodness of fit S are based on F^2^, conventional R-factors R are based
+ on F, with F set to zero for negative F^2^. The threshold expression of
+ F^2^ > 2sigma(F^2^) is used only for calculating R-factors(gt) etc. and is
+ not relevant to the choice of reflections for refinement.  R-factors based
+ on F^2^ are statistically about twice as large as those based on F, and R-
+ factors based on ALL data will be even larger.
+;
+ 
+_refine_ls_structure_factor_coef  Fsqd
+_refine_ls_matrix_type            full
+_refine_ls_weighting_scheme       calc
+_refine_ls_weighting_details
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0157P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_atom_sites_solution_primary      direct
+_atom_sites_solution_secondary    difmap
+_atom_sites_solution_hydrogens    none
+_refine_ls_hydrogen_treatment     none
+_refine_ls_extinction_method      SHELXL
+_refine_ls_extinction_coef        0.00070(3)
+_refine_ls_extinction_expression
+ 'Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^'
+_refine_ls_number_reflns          3456
+_refine_ls_number_parameters      105
+_refine_ls_number_restraints      0
+_refine_ls_R_factor_all           0.0544
+_refine_ls_R_factor_gt            0.0413
+_refine_ls_wR_factor_ref          0.0771
+_refine_ls_wR_factor_gt           0.0749
+_refine_ls_goodness_of_fit_ref    0.866
+_refine_ls_restrained_S_all       0.866
+_refine_ls_shift/su_max           0.000
+_refine_ls_shift/su_mean          0.000
+ 
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+Pb1A Pb 0.25369(5) -0.00015(5) -0.12920(4) 0.01239(10) Uani 1 1 d . . .
+Pb1B Pb -0.00445(6) 0.22423(5) 0.37576(6) 0.02123(12) Uani 1 1 d . . .
+Pb2A Pb 0.3333 0.6667 0.00402(8) 0.0123(3) Uani 1 3 d S . .
+Pb2B Pb 0.3333 0.6667 0.25395(7) 0.0132(3) Uani 1 3 d S . .
+Pb2C Pb 0.3333 0.6667 0.49982(8) 0.0187(3) Uani 1 3 d S . .
+Pb2D Pb 0.3333 0.6667 -0.25587(7) 0.0125(3) Uani 1 3 d S . .
+P1A P 0.3740(3) 0.4021(3) 0.3698(3) 0.0078(5) Uani 1 1 d . . .
+P1B P 0.0230(3) -0.3765(3) -0.1215(3) 0.0084(5) Uani 1 1 d . . .
+O1A O -0.1578(9) -0.4786(9) -0.1223(9) 0.0131(11) Uani 1 1 d . . .
+O1B O 0.4953(10) 0.3468(9) 0.3692(9) 0.0131(11) Uani 1 1 d . . .
+O2A O 0.0807(14) -0.2676(14) -0.2034(6) 0.0121(19) Uani 1 1 d . . .
+O2B O 0.2777(14) 0.3560(13) 0.2826(6) 0.0121(19) Uani 1 1 d . . .
+O3A O 0.2533(14) 0.3211(14) 0.4471(6) 0.021(2) Uani 1 1 d . . .
+O3B O 0.0869(16) -0.2716(17) -0.0366(6) 0.021(2) Uani 1 1 d . . .
+O4A O 0.0949(9) -0.4866(10) -0.1233(9) 0.0166(12) Uani 1 1 d . . .
+O4B O 0.4563(10) 0.5820(10) 0.3809(9) 0.0166(12) Uani 1 1 d . . .
+O5A O 0.0000 0.0000 0.330(3) 0.031(7) Uani 0.55(4) 3 d SP . .
+O5B O 0.0000 0.0000 0.395(3) 0.031(7) Uani 0.45(4) 3 d SP . .
+ 
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+Pb1A 0.0099(2) 0.0099(2) 0.01811(18) -0.0003(3) 0.0013(2) 0.00554(18)
+Pb1B 0.0082(2) 0.0111(2) 0.0435(3) 0.0011(3) -0.0004(4) 0.0043(2)
+Pb2A 0.0135(4) 0.0135(4) 0.0101(4) 0.000 0.000 0.0067(2)
+Pb2B 0.0140(4) 0.0140(4) 0.0115(4) 0.000 0.000 0.0070(2)
+Pb2C 0.0226(5) 0.0226(5) 0.0107(4) 0.000 0.000 0.0113(2)
+Pb2D 0.0133(4) 0.0133(4) 0.0109(4) 0.000 0.000 0.0066(2)
+P1A 0.0061(13) 0.0083(13) 0.0099(13) -0.0020(17) -0.0016(18) 0.0042(12)
+P1B 0.0044(14) 0.0071(13) 0.0123(13) 0.0017(19) 0.0004(18) 0.0018(11)
+O1A 0.005(3) 0.011(3) 0.021(3) 0.001(3) 0.001(3) 0.002(2)
+O1B 0.005(3) 0.011(3) 0.021(3) 0.001(3) 0.001(3) 0.002(2)
+O2A 0.010(4) 0.012(4) 0.014(3) 0.001(2) -0.001(2) 0.004(3)
+O2B 0.010(4) 0.012(4) 0.014(3) 0.001(2) -0.001(2) 0.004(3)
+O3A 0.015(5) 0.027(5) 0.010(3) 0.000(3) 0.002(3) 0.003(3)
+O3B 0.015(5) 0.027(5) 0.010(3) 0.000(3) 0.002(3) 0.003(3)
+O4A 0.010(3) 0.012(3) 0.028(3) -0.003(3) 0.002(4) 0.006(2)
+O4B 0.010(3) 0.012(3) 0.028(3) -0.003(3) 0.002(4) 0.006(2)
+O5A 0.015(7) 0.015(7) 0.06(2) 0.000 0.000 0.008(3)
+O5B 0.015(7) 0.015(7) 0.06(2) 0.000 0.000 0.008(3)
+ 
+_geom_special_details
+;
+ All esds (except the esd in the dihedral angle between two l.s. planes)
+ are estimated using the full covariance matrix.  The cell esds are taken
+ into account individually in the estimation of esds in distances, angles
+ and torsion angles; correlations between esds in cell parameters are only
+ used when they are defined by crystal symmetry.  An approximate (isotropic)
+ treatment of cell esds is used for estimating esds involving l.s. planes.
+;
+ 
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+Pb1A O4A 2.234(8) 3_655 ?
+Pb1A O2B 2.451(10) 5 ?
+Pb1A O2A 2.554(12) . ?
+Pb1A O3B 2.638(10) 6 ?
+Pb1A O3B 2.703(13) . ?
+Pb1A O1A 2.801(8) 2 ?
+Pb1A P1B 3.226(3) . ?
+Pb1A P1B 3.480(3) 2 ?
+Pb1A P1B 3.522(3) 3_655 ?
+Pb1A O2A 3.528(11) 2 ?
+Pb1A O1A 3.657(8) 3_655 ?
+Pb1A O3B 3.700(13) 2 ?
+Pb1B O5B 2.240(6) . ?
+Pb1B O5A 2.325(14) . ?
+Pb1B O3A 2.453(12) . ?
+Pb1B O4B 2.731(8) 3_565 ?
+Pb1B O3A 2.749(10) 6_556 ?
+Pb1B O2A 2.757(10) 4 ?
+Pb1B O2B 2.769(12) . ?
+Pb1B O1B 3.057(8) 2 ?
+Pb1B O3A 3.175(12) 2 ?
+Pb1B P1A 3.219(3) . ?
+Pb1B P1A 3.420(3) 2 ?
+Pb1B O2B 3.518(11) 2 ?
+Pb2A O1A 2.505(11) 6_565 ?
+Pb2A O1A 2.505(11) 4 ?
+Pb2A O1A 2.505(11) 5_665 ?
+Pb2A O4A 2.791(11) 1_565 ?
+Pb2A O4A 2.791(11) 3_665 ?
+Pb2A O4A 2.791(11) 2 ?
+Pb2A O3B 2.835(13) 1_565 ?
+Pb2A O3B 2.835(14) 3_665 ?
+Pb2A O3B 2.835(13) 2 ?
+Pb2A P1B 3.411(4) 1_565 ?
+Pb2A P1B 3.411(4) 3_665 ?
+Pb2A P1B 3.411(4) 2 ?
+Pb2B O4B 2.588(11) 2_665 ?
+Pb2B O4B 2.588(11) 3_565 ?
+Pb2B O4B 2.588(11) . ?
+Pb2B O1A 2.647(11) 6_565 ?
+Pb2B O1A 2.647(11) 4 ?
+Pb2B O1A 2.647(11) 5_665 ?
+Pb2B O2B 2.847(11) 3_565 ?
+Pb2B O2B 2.847(11) 2_665 ?
+Pb2B O2B 2.847(11) . ?
+Pb2B P1A 3.300(4) 2_665 ?
+Pb2B P1A 3.300(4) 3_565 ?
+Pb2B P1A 3.300(4) . ?
+Pb2C O4B 2.503(11) 3_565 ?
+Pb2C O4B 2.503(11) 2_665 ?
+Pb2C O4B 2.503(11) . ?
+Pb2C O1B 2.616(11) 5_566 ?
+Pb2C O1B 2.616(11) 6_556 ?
+Pb2C O1B 2.616(11) 4_666 ?
+Pb2C O3A 3.172(12) 3_565 ?
+Pb2C O3A 3.172(12) 2_665 ?
+Pb2C O3A 3.172(12) . ?
+Pb2C P1A 3.414(4) 3_565 ?
+Pb2C P1A 3.414(4) 2_665 ?
+Pb2C P1A 3.414(4) . ?
+Pb2D O1B 2.428(11) 5_565 ?
+Pb2D O1B 2.428(11) 6 ?
+Pb2D O1B 2.428(11) 4_665 ?
+Pb2D O4A 2.843(11) 3_665 ?
+Pb2D O4A 2.843(11) 1_565 ?
+Pb2D O4A 2.843(11) 2 ?
+Pb2D O2A 2.961(11) 1_565 ?
+Pb2D O2A 2.961(11) 3_665 ?
+Pb2D O2A 2.961(11) 2 ?
+Pb2D P1B 3.483(4) 3_665 ?
+Pb2D P1B 3.483(4) 1_565 ?
+Pb2D P1B 3.483(4) 2 ?
+P1A O2B 1.532(11) . ?
+P1A O1B 1.536(9) . ?
+P1A O4B 1.539(9) . ?
+P1A O3A 1.552(12) . ?
+P1A O4B 3.358(9) 3_565 ?
+P1A Pb1B 3.420(3) 3 ?
+P1B O2A 1.527(11) . ?
+P1B O1A 1.541(8) . ?
+P1B O3B 1.548(12) . ?
+P1B O4A 1.558(9) . ?
+P1B Pb2A 3.411(4) 1_545 ?
+P1B O4A 3.460(9) 3_655 ?
+P1B Pb1A 3.480(3) 3 ?
+P1B Pb2D 3.483(4) 1_545 ?
+P1B Pb1A 3.522(3) 2_545 ?
+O1A Pb2A 2.505(11) 4 ?
+O1A O4A 2.520(11) . ?
+O1A O2A 2.522(15) . ?
+O1A O3B 2.576(16) . ?
+O1A Pb2B 2.647(11) 4 ?
+O1A Pb1A 2.801(8) 3 ?
+O1A O3B 3.084(16) 5 ?
+O1A O1A 3.095(14) 2_445 ?
+O1A O1A 3.095(14) 3_545 ?
+O1A O2B 3.146(16) 4 ?
+O1A Pb1A 3.657(8) 2_545 ?
+O1B Pb2D 2.428(11) 4_665 ?
+O1B O4B 2.527(11) . ?
+O1B O2B 2.532(15) . ?
+O1B O3A 2.538(15) . ?
+O1B Pb2C 2.616(11) 4_666 ?
+O1B O1B 3.032(14) 3_665 ?
+O1B O1B 3.032(14) 2_655 ?
+O1B Pb1B 3.057(8) 3 ?
+O1B O2A 3.345(15) 6 ?
+O1B O3A 3.628(16) 5_556 ?
+O1B O2A 3.669(14) 5_665 ?
+O2A O3B 2.477(11) . ?
+O2A O4A 2.519(15) . ?
+O2A Pb1B 2.757(10) 4 ?
+O2A Pb2D 2.961(11) 1_545 ?
+O2A O4A 3.107(14) 3_655 ?
+O2A O2B 3.320(15) 5 ?
+O2A O1B 3.345(15) 5 ?
+O2A O2B 3.384(14) 4 ?
+O2A Pb1A 3.528(11) 3 ?
+O2B Pb1A 2.451(10) 6 ?
+O2B O3A 2.461(12) . ?
+O2B O4B 2.496(15) . ?
+O2B O4A 3.144(16) 5_665 ?
+O2B O1A 3.146(16) 4 ?
+O2B O4B 3.240(15) 3_565 ?
+O2B O5A 3.255(15) . ?
+O2B O2A 3.320(15) 6 ?
+O3A O4B 2.527(14) . ?
+O3A Pb1B 2.749(10) 5_556 ?
+O3A O5B 2.980(17) . ?
+O3A O4B 3.168(16) 3_565 ?
+O3A Pb1B 3.175(12) 3 ?
+O3A O3A 3.277(14) 6_556 ?
+O3A O3A 3.277(14) 5_556 ?
+O3B O4A 2.505(17) . ?
+O3B Pb1A 2.638(10) 5 ?
+O3B Pb2A 2.835(13) 1_545 ?
+O3B O1A 3.084(16) 6 ?
+O3B O4A 3.100(16) 3_655 ?
+O3B O4A 3.195(16) 4_545 ?
+O3B O3B 3.359(15) 6 ?
+O3B O3B 3.359(15) 5 ?
+O4A Pb1A 2.234(8) 2_545 ?
+O4A Pb2A 2.791(11) 1_545 ?
+O4A Pb2D 2.843(11) 1_545 ?
+O4A O3B 3.100(16) 2_545 ?
+O4A O2A 3.107(14) 2_545 ?
+O4A O2B 3.144(16) 6_545 ?
+O4A O3B 3.195(16) 4_545 ?
+O4A P1B 3.460(9) 2_545 ?
+O4B Pb1B 2.731(8) 2_665 ?
+O4B O4B 3.073(14) 3_565 ?
+O4B O4B 3.073(14) 2_665 ?
+O4B O3A 3.168(16) 2_665 ?
+O4B O2B 3.240(15) 2_665 ?
+O4B P1A 3.358(9) 2_665 ?
+O5A O5B 0.96(5) . ?
+O5A Pb1B 2.325(14) 2 ?
+O5A Pb1B 2.325(14) 3 ?
+O5A O2B 3.255(15) 2 ?
+O5A O2B 3.255(15) 3 ?
+O5A O3A 3.36(3) 2 ?
+O5A O3A 3.36(3) 3 ?
+O5A O2A 3.62(3) 5 ?
+O5A O2A 3.62(3) 6 ?
+O5B Pb1B 2.240(6) 2 ?
+O5B Pb1B 2.240(6) 3 ?
+O5B O3A 2.980(17) 2 ?
+O5B O3A 2.980(17) 3 ?
+O5B O5B 3.13(10) 4_556 ?
+O5B O2B 3.59(3) 2 ?
+O5B O2B 3.59(3) 3 ?
+O5B O3A 3.71(3) 5_556 ?
+ 
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+O4A Pb1A O2B 84.2(4) 3_655 5 ?
+O4A Pb1A O2A 80.6(3) 3_655 . ?
+O2B Pb1A O2A 83.1(3) 5 . ?
+O4A Pb1A O3B 81.5(5) 3_655 6 ?
+O2B Pb1A O3B 137.1(3) 5 6 ?
+O2A Pb1A O3B 133.3(3) . 6 ?
+O4A Pb1A O3B 77.1(4) 3_655 . ?
+O2B Pb1A O3B 137.1(3) 5 . ?
+O2A Pb1A O3B 56.1(2) . . ?
+O3B Pb1A O3B 77.9(2) 6 . ?
+O4A Pb1A O1A 98.0(3) 3_655 2 ?
+O2B Pb1A O1A 73.3(4) 5 2 ?
+O2A Pb1A O1A 156.3(4) . 2 ?
+O3B Pb1A O1A 69.0(4) 6 2 ?
+O3B Pb1A O1A 146.9(4) . 2 ?
+O4A Pb1A P1B 76.2(2) 3_655 . ?
+O2B Pb1A P1B 109.6(3) 5 . ?
+O2A Pb1A P1B 27.6(2) . . ?
+O3B Pb1A P1B 105.9(3) 6 . ?
+O3B Pb1A P1B 28.6(3) . . ?
+O1A Pb1A P1B 173.0(2) 2 . ?
+O4A Pb1A P1B 123.6(2) 3_655 2 ?
+O2B Pb1A P1B 79.6(3) 5 2 ?
+O2A Pb1A P1B 148.1(3) . 2 ?
+O3B Pb1A P1B 75.3(3) 6 2 ?
+O3B Pb1A P1B 142.3(3) . 2 ?
+O1A Pb1A P1B 25.59(16) 2 2 ?
+P1B Pb1A P1B 159.65(7) . 2 ?
+O4A Pb1A P1B 18.0(2) 3_655 3_655 ?
+O2B Pb1A P1B 78.0(3) 5 3_655 ?
+O2A Pb1A P1B 96.6(3) . 3_655 ?
+O3B Pb1A P1B 76.0(3) 6 3_655 ?
+O3B Pb1A P1B 92.8(3) . 3_655 ?
+O1A Pb1A P1B 80.05(16) 2 3_655 ?
+P1B Pb1A P1B 94.20(9) . 3_655 ?
+P1B Pb1A P1B 105.64(8) 2 3_655 ?
+O4A Pb1A O2A 136.9(3) 3_655 2 ?
+O2B Pb1A O2A 66.1(3) 5 2 ?
+O2A Pb1A O2A 123.0(4) . 2 ?
+O3B Pb1A O2A 99.0(4) 6 2 ?
+O3B Pb1A O2A 145.6(4) . 2 ?
+O1A Pb1A O2A 45.2(3) 2 2 ?
+P1B Pb1A O2A 141.7(2) . 2 ?
+P1B Pb1A O2A 25.15(19) 2 2 ?
+P1B Pb1A O2A 120.1(2) 3_655 2 ?
+O4A Pb1A O1A 42.7(2) 3_655 3_655 ?
+O2B Pb1A O1A 72.0(3) 5 3_655 ?
+O2A Pb1A O1A 118.6(3) . 3_655 ?
+O3B Pb1A O1A 70.1(4) 6 3_655 ?
+O3B Pb1A O1A 113.8(3) . 3_655 ?
+O1A Pb1A O1A 55.4(3) 2 3_655 ?
+P1B Pb1A O1A 118.88(13) . 3_655 ?
+P1B Pb1A O1A 80.96(13) 2 3_655 ?
+P1B Pb1A O1A 24.70(13) 3_655 3_655 ?
+O2A Pb1A O1A 96.6(2) 2 3_655 ?
+O4A Pb1A O3B 132.9(3) 3_655 2 ?
+O2B Pb1A O3B 103.3(4) 5 2 ?
+O2A Pb1A O3B 145.9(3) . 2 ?
+O3B Pb1A O3B 61.3(3) 6 2 ?
+O3B Pb1A O3B 117.8(5) . 2 ?
+O1A Pb1A O3B 44.0(3) 2 2 ?
+P1B Pb1A O3B 138.4(2) . 2 ?
+P1B Pb1A O3B 24.7(2) 2 2 ?
+P1B Pb1A O3B 117.4(2) 3_655 2 ?
+O2A Pb1A O3B 40.00(17) 2 2 ?
+O1A Pb1A O3B 94.9(3) 3_655 2 ?
+O5B Pb1B O5A 24.3(11) . . ?
+O5B Pb1B O3A 78.7(6) . . ?
+O5A Pb1B O3A 89.4(6) . . ?
+O5B Pb1B O4B 153.7(5) . 3_565 ?
+O5A Pb1B O4B 151.0(6) . 3_565 ?
+O3A Pb1B O4B 75.1(4) . 3_565 ?
+O5B Pb1B O3A 95.7(13) . 6_556 ?
+O5A Pb1B O3A 119.5(11) . 6_556 ?
+O3A Pb1B O3A 77.9(2) . 6_556 ?
+O4B Pb1B O3A 81.6(4) 3_565 6_556 ?
+O5B Pb1B O2A 114.0(13) . 4 ?
+O5A Pb1B O2A 90.5(11) . 4 ?
+O3A Pb1B O2A 130.3(3) . 4 ?
+O4B Pb1B O2A 81.7(4) 3_565 4 ?
+O3A Pb1B O2A 141.1(3) 6_556 4 ?
+O5B Pb1B O2B 90.8(7) . . ?
+O5A Pb1B O2B 78.9(6) . . ?
+O3A Pb1B O2B 55.8(3) . . ?
+O4B Pb1B O2B 72.2(3) 3_565 . ?
+O3A Pb1B O2B 130.9(3) 6_556 . ?
+O2A Pb1B O2B 75.5(3) 4 . ?
+O5B Pb1B O1B 108.91(16) . 2 ?
+O5A Pb1B O1B 107.4(2) . 2 ?
+O3A Pb1B O1B 154.5(3) . 2 ?
+O4B Pb1B O1B 96.1(2) 3_565 2 ?
+O3A Pb1B O1B 77.1(4) 6_556 2 ?
+O2A Pb1B O1B 70.0(3) 4 2 ?
+O2B Pb1B O1B 144.9(3) . 2 ?
+O5B Pb1B O3A 64.1(5) . 2 ?
+O5A Pb1B O3A 73.6(6) . 2 ?
+O3A Pb1B O3A 124.0(4) . 2 ?
+O4B Pb1B O3A 135.3(3) 3_565 2 ?
+O3A Pb1B O3A 66.7(2) 6_556 2 ?
+O2A Pb1B O3A 103.3(3) 4 2 ?
+O2B Pb1B O3A 152.4(4) . 2 ?
+O1B Pb1B O3A 48.0(3) 2 2 ?
+O5B Pb1B P1A 87.26(8) . . ?
+O5A Pb1B P1A 86.72(6) . . ?
+O3A Pb1B P1A 27.8(3) . . ?
+O4B Pb1B P1A 68.15(18) 3_565 . ?
+O3A Pb1B P1A 103.3(3) 6_556 . ?
+O2A Pb1B P1A 102.7(3) 4 . ?
+O2B Pb1B P1A 28.4(2) . . ?
+O1B Pb1B P1A 163.77(17) 2 . ?
+O3A Pb1B P1A 147.3(2) 2 . ?
+O5B Pb1B P1A 82.40(8) . 2 ?
+O5A Pb1B P1A 82.06(6) . 2 ?
+O3A Pb1B P1A 150.9(3) . 2 ?
+O4B Pb1B P1A 122.74(18) 3_565 2 ?
+O3A Pb1B P1A 82.2(3) 6_556 2 ?
+O2A Pb1B P1A 77.8(3) 4 2 ?
+O2B Pb1B P1A 146.9(2) . 2 ?
+O1B Pb1B P1A 26.67(16) 2 2 ?
+O3A Pb1B P1A 26.9(2) 2 2 ?
+P1A Pb1B P1A 168.77(7) . 2 ?
+O5B Pb1B O2B 73.3(6) . 2 ?
+O5A Pb1B O2B 63.9(4) . 2 ?
+O3A Pb1B O2B 151.9(4) . 2 ?
+O4B Pb1B O2B 132.7(3) 3_565 2 ?
+O3A Pb1B O2B 106.6(3) 6_556 2 ?
+O2A Pb1B O2B 62.5(3) 4 2 ?
+O2B Pb1B O2B 121.8(4) . 2 ?
+O1B Pb1B O2B 44.6(3) 2 2 ?
+O3A Pb1B O2B 42.8(2) 2 2 ?
+P1A Pb1B O2B 145.6(2) . 2 ?
+P1A Pb1B O2B 25.46(19) 2 2 ?
+O1A Pb2A O1A 76.3(4) 6_565 4 ?
+O1A Pb2A O1A 76.3(4) 6_565 5_665 ?
+O1A Pb2A O1A 76.3(4) 4 5_665 ?
+O1A Pb2A O4A 121.9(3) 6_565 1_565 ?
+O1A Pb2A O4A 89.7(3) 4 1_565 ?
+O1A Pb2A O4A 154.1(3) 5_665 1_565 ?
+O1A Pb2A O4A 89.7(3) 6_565 3_665 ?
+O1A Pb2A O4A 154.1(3) 4 3_665 ?
+O1A Pb2A O4A 121.9(3) 5_665 3_665 ?
+O4A Pb2A O4A 79.2(4) 1_565 3_665 ?
+O1A Pb2A O4A 154.1(3) 6_565 2 ?
+O1A Pb2A O4A 121.9(3) 4 2 ?
+O1A Pb2A O4A 89.7(3) 5_665 2 ?
+O4A Pb2A O4A 79.2(4) 1_565 2 ?
+O4A Pb2A O4A 79.2(4) 3_665 2 ?
+O1A Pb2A O3B 70.2(3) 6_565 1_565 ?
+O1A Pb2A O3B 87.7(3) 4 1_565 ?
+O1A Pb2A O3B 145.5(3) 5_665 1_565 ?
+O4A Pb2A O3B 52.9(3) 1_565 1_565 ?
+O4A Pb2A O3B 66.9(3) 3_665 1_565 ?
+O4A Pb2A O3B 124.4(3) 2 1_565 ?
+O1A Pb2A O3B 87.7(3) 6_565 3_665 ?
+O1A Pb2A O3B 145.5(3) 4 3_665 ?
+O1A Pb2A O3B 70.2(3) 5_665 3_665 ?
+O4A Pb2A O3B 124.4(3) 1_565 3_665 ?
+O4A Pb2A O3B 52.9(3) 3_665 3_665 ?
+O4A Pb2A O3B 66.9(3) 2 3_665 ?
+O3B Pb2A O3B 115.62(14) 1_565 3_665 ?
+O1A Pb2A O3B 145.5(3) 6_565 2 ?
+O1A Pb2A O3B 70.2(3) 4 2 ?
+O1A Pb2A O3B 87.7(3) 5_665 2 ?
+O4A Pb2A O3B 66.9(3) 1_565 2 ?
+O4A Pb2A O3B 124.4(3) 3_665 2 ?
+O4A Pb2A O3B 52.9(3) 2 2 ?
+O3B Pb2A O3B 115.62(14) 1_565 2 ?
+O3B Pb2A O3B 115.62(14) 3_665 2 ?
+O1A Pb2A P1B 96.9(2) 6_565 1_565 ?
+O1A Pb2A P1B 92.8(2) 4 1_565 ?
+O1A Pb2A P1B 168.2(3) 5_665 1_565 ?
+O4A Pb2A P1B 26.79(18) 1_565 1_565 ?
+O4A Pb2A P1B 66.96(18) 3_665 1_565 ?
+O4A Pb2A P1B 100.0(2) 2 1_565 ?
+O3B Pb2A P1B 26.7(3) 1_565 1_565 ?
+O3B Pb2A P1B 119.7(3) 3_665 1_565 ?
+O3B Pb2A P1B 92.9(3) 2 1_565 ?
+O1A Pb2A P1B 92.8(2) 6_565 3_665 ?
+O1A Pb2A P1B 168.2(3) 4 3_665 ?
+O1A Pb2A P1B 96.9(2) 5_665 3_665 ?
+O4A Pb2A P1B 100.0(2) 1_565 3_665 ?
+O4A Pb2A P1B 26.79(18) 3_665 3_665 ?
+O4A Pb2A P1B 66.96(18) 2 3_665 ?
+O3B Pb2A P1B 92.9(3) 1_565 3_665 ?
+O3B Pb2A P1B 26.7(3) 3_665 3_665 ?
+O3B Pb2A P1B 119.7(3) 2 3_665 ?
+P1B Pb2A P1B 92.99(10) 1_565 3_665 ?
+O1A Pb2A P1B 168.2(3) 6_565 2 ?
+O1A Pb2A P1B 96.9(2) 4 2 ?
+O1A Pb2A P1B 92.8(2) 5_665 2 ?
+O4A Pb2A P1B 66.96(18) 1_565 2 ?
+O4A Pb2A P1B 100.0(2) 3_665 2 ?
+O4A Pb2A P1B 26.79(18) 2 2 ?
+O3B Pb2A P1B 119.7(3) 1_565 2 ?
+O3B Pb2A P1B 92.9(3) 3_665 2 ?
+O3B Pb2A P1B 26.7(3) 2 2 ?
+P1B Pb2A P1B 92.99(10) 1_565 2 ?
+P1B Pb2A P1B 92.99(10) 3_665 2 ?
+O4B Pb2B O4B 72.9(4) 2_665 3_565 ?
+O4B Pb2B O4B 72.9(4) 2_665 . ?
+O4B Pb2B O4B 72.9(4) 3_565 . ?
+O4B Pb2B O1A 97.2(3) 2_665 6_565 ?
+O4B Pb2B O1A 123.9(3) 3_565 6_565 ?
+O4B Pb2B O1A 157.9(2) . 6_565 ?
+O4B Pb2B O1A 157.9(2) 2_665 4 ?
+O4B Pb2B O1A 97.2(3) 3_565 4 ?
+O4B Pb2B O1A 123.9(3) . 4 ?
+O1A Pb2B O1A 71.5(4) 6_565 4 ?
+O4B Pb2B O1A 123.9(3) 2_665 5_665 ?
+O4B Pb2B O1A 157.9(2) 3_565 5_665 ?
+O4B Pb2B O1A 97.2(3) . 5_665 ?
+O1A Pb2B O1A 71.5(4) 6_565 5_665 ?
+O1A Pb2B O1A 71.5(4) 4 5_665 ?
+O4B Pb2B O2B 73.0(3) 2_665 3_565 ?
+O4B Pb2B O2B 54.4(3) 3_565 3_565 ?
+O4B Pb2B O2B 123.3(3) . 3_565 ?
+O1A Pb2B O2B 69.8(3) 6_565 3_565 ?
+O1A Pb2B O2B 85.2(3) 4 3_565 ?
+O1A Pb2B O2B 139.5(3) 5_665 3_565 ?
+O4B Pb2B O2B 54.4(3) 2_665 2_665 ?
+O4B Pb2B O2B 123.3(3) 3_565 2_665 ?
+O4B Pb2B O2B 73.0(3) . 2_665 ?
+O1A Pb2B O2B 85.2(3) 6_565 2_665 ?
+O1A Pb2B O2B 139.5(3) 4 2_665 ?
+O1A Pb2B O2B 69.8(3) 5_665 2_665 ?
+O2B Pb2B O2B 117.82(10) 3_565 2_665 ?
+O4B Pb2B O2B 123.3(3) 2_665 . ?
+O4B Pb2B O2B 73.0(3) 3_565 . ?
+O4B Pb2B O2B 54.4(3) . . ?
+O1A Pb2B O2B 139.5(3) 6_565 . ?
+O1A Pb2B O2B 69.8(3) 4 . ?
+O1A Pb2B O2B 85.2(3) 5_665 . ?
+O2B Pb2B O2B 117.82(10) 3_565 . ?
+O2B Pb2B O2B 117.82(10) 2_665 . ?
+O4B Pb2B P1A 27.0(2) 2_665 2_665 ?
+O4B Pb2B P1A 97.0(2) 3_565 2_665 ?
+O4B Pb2B P1A 68.3(2) . 2_665 ?
+O1A Pb2B P1A 93.8(2) 6_565 2_665 ?
+O1A Pb2B P1A 163.6(3) 4 2_665 ?
+O1A Pb2B P1A 97.4(2) 5_665 2_665 ?
+O2B Pb2B P1A 96.7(2) 3_565 2_665 ?
+O2B Pb2B P1A 27.6(2) 2_665 2_665 ?
+O2B Pb2B P1A 122.5(2) . 2_665 ?
+O4B Pb2B P1A 68.3(2) 2_665 3_565 ?
+O4B Pb2B P1A 27.0(2) 3_565 3_565 ?
+O4B Pb2B P1A 97.0(2) . 3_565 ?
+O1A Pb2B P1A 97.4(2) 6_565 3_565 ?
+O1A Pb2B P1A 93.8(2) 4 3_565 ?
+O1A Pb2B P1A 163.6(3) 5_665 3_565 ?
+O2B Pb2B P1A 27.6(2) 3_565 3_565 ?
+O2B Pb2B P1A 122.5(2) 2_665 3_565 ?
+O2B Pb2B P1A 96.7(2) . 3_565 ?
+P1A Pb2B P1A 95.31(10) 2_665 3_565 ?
+O4B Pb2B P1A 97.0(2) 2_665 . ?
+O4B Pb2B P1A 68.3(2) 3_565 . ?
+O4B Pb2B P1A 27.0(2) . . ?
+O1A Pb2B P1A 163.6(3) 6_565 . ?
+O1A Pb2B P1A 97.4(2) 4 . ?
+O1A Pb2B P1A 93.8(2) 5_665 . ?
+O2B Pb2B P1A 122.5(2) 3_565 . ?
+O2B Pb2B P1A 96.7(2) 2_665 . ?
+O2B Pb2B P1A 27.6(2) . . ?
+P1A Pb2B P1A 95.31(10) 2_665 . ?
+P1A Pb2B P1A 95.31(10) 3_565 . ?
+O4B Pb2C O4B 75.8(4) 3_565 2_665 ?
+O4B Pb2C O4B 75.8(4) 3_565 . ?
+O4B Pb2C O4B 75.8(4) 2_665 . ?
+O4B Pb2C O1B 127.2(3) 3_565 5_566 ?
+O4B Pb2C O1B 94.5(3) 2_665 5_566 ?
+O4B Pb2C O1B 152.7(3) . 5_566 ?
+O4B Pb2C O1B 94.5(3) 3_565 6_556 ?
+O4B Pb2C O1B 152.7(3) 2_665 6_556 ?
+O4B Pb2C O1B 127.2(3) . 6_556 ?
+O1B Pb2C O1B 70.8(4) 5_566 6_556 ?
+O4B Pb2C O1B 152.7(3) 3_565 4_666 ?
+O4B Pb2C O1B 127.2(3) 2_665 4_666 ?
+O4B Pb2C O1B 94.5(3) . 4_666 ?
+O1B Pb2C O1B 70.8(4) 5_566 4_666 ?
+O1B Pb2C O1B 70.8(4) 6_556 4_666 ?
+O4B Pb2C O3A 51.2(3) 3_565 3_565 ?
+O4B Pb2C O3A 66.7(3) 2_665 3_565 ?
+O4B Pb2C O3A 120.0(3) . 3_565 ?
+O1B Pb2C O3A 77.0(3) 5_566 3_565 ?
+O1B Pb2C O3A 87.2(3) 6_556 3_565 ?
+O1B Pb2C O3A 145.5(3) 4_666 3_565 ?
+O4B Pb2C O3A 120.0(3) 3_565 2_665 ?
+O4B Pb2C O3A 51.2(3) 2_665 2_665 ?
+O4B Pb2C O3A 66.7(3) . 2_665 ?
+O1B Pb2C O3A 87.2(3) 5_566 2_665 ?
+O1B Pb2C O3A 145.5(3) 6_556 2_665 ?
+O1B Pb2C O3A 77.0(3) 4_666 2_665 ?
+O3A Pb2C O3A 114.13(14) 3_565 2_665 ?
+O4B Pb2C O3A 66.7(3) 3_565 . ?
+O4B Pb2C O3A 120.0(3) 2_665 . ?
+O4B Pb2C O3A 51.2(3) . . ?
+O1B Pb2C O3A 145.5(3) 5_566 . ?
+O1B Pb2C O3A 77.0(3) 6_556 . ?
+O1B Pb2C O3A 87.2(3) 4_666 . ?
+O3A Pb2C O3A 114.13(14) 3_565 . ?
+O3A Pb2C O3A 114.13(14) 2_665 . ?
+O4B Pb2C P1A 24.5(2) 3_565 3_565 ?
+O4B Pb2C P1A 67.1(2) 2_665 3_565 ?
+O4B Pb2C P1A 95.9(3) . 3_565 ?
+O1B Pb2C P1A 103.8(2) 5_566 3_565 ?
+O1B Pb2C P1A 93.4(2) 6_556 3_565 ?
+O1B Pb2C P1A 164.2(2) 4_666 3_565 ?
+O3A Pb2C P1A 26.9(2) 3_565 3_565 ?
+O3A Pb2C P1A 118.1(2) 2_665 3_565 ?
+O3A Pb2C P1A 90.1(2) . 3_565 ?
+O4B Pb2C P1A 95.9(3) 3_565 2_665 ?
+O4B Pb2C P1A 24.5(2) 2_665 2_665 ?
+O4B Pb2C P1A 67.1(2) . 2_665 ?
+O1B Pb2C P1A 93.4(2) 5_566 2_665 ?
+O1B Pb2C P1A 164.2(2) 6_556 2_665 ?
+O1B Pb2C P1A 103.8(2) 4_666 2_665 ?
+O3A Pb2C P1A 90.1(2) 3_565 2_665 ?
+O3A Pb2C P1A 26.9(2) 2_665 2_665 ?
+O3A Pb2C P1A 118.1(2) . 2_665 ?
+P1A Pb2C P1A 91.20(11) 3_565 2_665 ?
+O4B Pb2C P1A 67.1(2) 3_565 . ?
+O4B Pb2C P1A 95.9(3) 2_665 . ?
+O4B Pb2C P1A 24.5(2) . . ?
+O1B Pb2C P1A 164.2(2) 5_566 . ?
+O1B Pb2C P1A 103.8(2) 6_556 . ?
+O1B Pb2C P1A 93.4(2) 4_666 . ?
+O3A Pb2C P1A 118.1(2) 3_565 . ?
+O3A Pb2C P1A 90.1(2) 2_665 . ?
+O3A Pb2C P1A 26.9(2) . . ?
+P1A Pb2C P1A 91.20(11) 3_565 . ?
+P1A Pb2C P1A 91.20(11) 2_665 . ?
+O1B Pb2D O1B 77.3(4) 5_565 6 ?
+O1B Pb2D O1B 77.3(4) 5_565 4_665 ?
+O1B Pb2D O1B 77.3(4) 6 4_665 ?
+O1B Pb2D O4A 88.9(3) 5_565 3_665 ?
+O1B Pb2D O4A 149.3(2) 6 3_665 ?
+O1B Pb2D O4A 126.7(3) 4_665 3_665 ?
+O1B Pb2D O4A 126.7(3) 5_565 1_565 ?
+O1B Pb2D O4A 88.9(3) 6 1_565 ?
+O1B Pb2D O4A 149.3(2) 4_665 1_565 ?
+O4A Pb2D O4A 77.4(4) 3_665 1_565 ?
+O1B Pb2D O4A 149.3(2) 5_565 2 ?
+O1B Pb2D O4A 126.7(3) 6 2 ?
+O1B Pb2D O4A 88.9(3) 4_665 2 ?
+O4A Pb2D O4A 77.4(4) 3_665 2 ?
+O4A Pb2D O4A 77.4(4) 1_565 2 ?
+O1B Pb2D O2A 76.0(3) 5_565 1_565 ?
+O1B Pb2D O2A 85.2(3) 6 1_565 ?
+O1B Pb2D O2A 150.7(3) 4_665 1_565 ?
+O4A Pb2D O2A 64.7(3) 3_665 1_565 ?
+O4A Pb2D O2A 51.4(3) 1_565 1_565 ?
+O4A Pb2D O2A 120.4(3) 2 1_565 ?
+O1B Pb2D O2A 85.2(3) 5_565 3_665 ?
+O1B Pb2D O2A 150.7(3) 6 3_665 ?
+O1B Pb2D O2A 76.0(3) 4_665 3_665 ?
+O4A Pb2D O2A 51.4(3) 3_665 3_665 ?
+O4A Pb2D O2A 120.4(3) 1_565 3_665 ?
+O4A Pb2D O2A 64.7(3) 2 3_665 ?
+O2A Pb2D O2A 113.34(15) 1_565 3_665 ?
+O1B Pb2D O2A 150.7(3) 5_565 2 ?
+O1B Pb2D O2A 76.0(3) 6 2 ?
+O1B Pb2D O2A 85.2(3) 4_665 2 ?
+O4A Pb2D O2A 120.4(3) 3_665 2 ?
+O4A Pb2D O2A 64.7(3) 1_565 2 ?
+O4A Pb2D O2A 51.4(3) 2 2 ?
+O2A Pb2D O2A 113.34(15) 1_565 2 ?
+O2A Pb2D O2A 113.34(15) 3_665 2 ?
+O1B Pb2D P1B 90.4(2) 5_565 3_665 ?
+O1B Pb2D P1B 167.6(2) 6 3_665 ?
+O1B Pb2D P1B 101.8(2) 4_665 3_665 ?
+O4A Pb2D P1B 26.09(18) 3_665 3_665 ?
+O4A Pb2D P1B 97.3(2) 1_565 3_665 ?
+O4A Pb2D P1B 65.4(2) 2 3_665 ?
+O2A Pb2D P1B 90.3(2) 1_565 3_665 ?
+O2A Pb2D P1B 25.8(2) 3_665 3_665 ?
+O2A Pb2D P1B 116.3(2) 2 3_665 ?
+O1B Pb2D P1B 101.8(2) 5_565 1_565 ?
+O1B Pb2D P1B 90.4(2) 6 1_565 ?
+O1B Pb2D P1B 167.6(3) 4_665 1_565 ?
+O4A Pb2D P1B 65.4(2) 3_665 1_565 ?
+O4A Pb2D P1B 26.09(18) 1_565 1_565 ?
+O4A Pb2D P1B 97.3(2) 2 1_565 ?
+O2A Pb2D P1B 25.8(2) 1_565 1_565 ?
+O2A Pb2D P1B 116.3(2) 3_665 1_565 ?
+O2A Pb2D P1B 90.3(2) 2 1_565 ?
+P1B Pb2D P1B 90.50(11) 3_665 1_565 ?
+O1B Pb2D P1B 167.6(2) 5_565 2 ?
+O1B Pb2D P1B 101.8(2) 6 2 ?
+O1B Pb2D P1B 90.4(2) 4_665 2 ?
+O4A Pb2D P1B 97.3(2) 3_665 2 ?
+O4A Pb2D P1B 65.4(2) 1_565 2 ?
+O4A Pb2D P1B 26.09(18) 2 2 ?
+O2A Pb2D P1B 116.3(2) 1_565 2 ?
+O2A Pb2D P1B 90.3(2) 3_665 2 ?
+O2A Pb2D P1B 25.8(2) 2 2 ?
+P1B Pb2D P1B 90.50(11) 3_665 2 ?
+P1B Pb2D P1B 90.50(11) 1_565 2 ?
+O2B P1A O1B 111.3(7) . . ?
+O2B P1A O4B 108.7(7) . . ?
+O1B P1A O4B 110.6(5) . . ?
+O2B P1A O3A 105.9(6) . . ?
+O1B P1A O3A 110.6(7) . . ?
+O4B P1A O3A 109.7(7) . . ?
+O2B P1A Pb1B 59.3(4) . . ?
+O1B P1A Pb1B 134.1(3) . . ?
+O4B P1A Pb1B 114.9(3) . . ?
+O3A P1A Pb1B 47.5(4) . . ?
+O2B P1A Pb2B 59.5(4) . . ?
+O1B P1A Pb2B 134.0(5) . . ?
+O4B P1A Pb2B 49.8(5) . . ?
+O3A P1A Pb2B 115.2(5) . . ?
+Pb1B P1A Pb2B 83.12(7) . . ?
+O2B P1A O4B 72.3(5) . 3_565 ?
+O1B P1A O4B 176.0(5) . 3_565 ?
+O4B P1A O4B 66.0(4) . 3_565 ?
+O3A P1A O4B 69.5(5) . 3_565 ?
+Pb1B P1A O4B 49.01(15) . 3_565 ?
+Pb2B P1A O4B 45.7(2) . 3_565 ?
+O2B P1A Pb2C 114.4(5) . . ?
+O1B P1A Pb2C 132.7(5) . . ?
+O4B P1A Pb2C 42.4(4) . . ?
+O3A P1A Pb2C 67.8(5) . . ?
+Pb1B P1A Pb2C 81.67(7) . . ?
+Pb2B P1A Pb2C 65.82(6) . . ?
+O4B P1A Pb2C 43.37(19) 3_565 . ?
+O2B P1A Pb1B 80.8(4) . 3 ?
+O1B P1A Pb1B 63.4(3) . 3 ?
+O4B P1A Pb1B 170.3(5) . 3 ?
+O3A P1A Pb1B 67.7(5) . 3 ?
+Pb1B P1A Pb1B 70.78(6) . 3 ?
+Pb2B P1A Pb1B 139.92(13) . 3 ?
+O4B P1A Pb1B 119.71(17) 3_565 3 ?
+Pb2C P1A Pb1B 135.41(14) . 3 ?
+O2A P1B O1A 110.6(7) . . ?
+O2A P1B O3B 107.3(5) . . ?
+O1A P1B O3B 113.0(8) . . ?
+O2A P1B O4A 109.5(7) . . ?
+O1A P1B O4A 108.8(4) . . ?
+O3B P1B O4A 107.5(7) . . ?
+O2A P1B Pb1A 50.9(4) . . ?
+O1A P1B Pb1A 131.6(3) . . ?
+O3B P1B Pb1A 56.6(5) . . ?
+O4A P1B Pb1A 119.4(3) . . ?
+O2A P1B Pb2A 110.6(5) . 1_545 ?
+O1A P1B Pb2A 138.7(5) . 1_545 ?
+O3B P1B Pb2A 55.4(5) . 1_545 ?
+O4A P1B Pb2A 53.8(4) . 1_545 ?
+Pb1A P1B Pb2A 78.78(7) . 1_545 ?
+O2A P1B O4A 63.9(5) . 3_655 ?
+O1A P1B O4A 170.5(4) . 3_655 ?
+O3B P1B O4A 63.6(5) . 3_655 ?
+O4A P1B O4A 80.7(4) . 3_655 ?
+Pb1A P1B O4A 38.84(14) . 3_655 ?
+Pb2A P1B O4A 47.9(2) 1_545 3_655 ?
+O2A P1B Pb1A 79.2(4) . 3 ?
+O1A P1B Pb1A 51.7(3) . 3 ?
+O3B P1B Pb1A 85.6(5) . 3 ?
+O4A P1B Pb1A 160.3(3) . 3 ?
+Pb1A P1B Pb1A 79.93(7) . 3 ?
+Pb2A P1B Pb1A 141.04(14) 1_545 3 ?
+O4A P1B Pb1A 118.77(16) 3_655 3 ?
+O2A P1B Pb2D 57.6(4) . 1_545 ?
+O1A P1B Pb2D 136.6(5) . 1_545 ?
+O3B P1B Pb2D 110.3(5) . 1_545 ?
+O4A P1B Pb2D 53.4(4) . 1_545 ?
+Pb1A P1B Pb2D 76.73(7) . 1_545 ?
+Pb2A P1B Pb2D 68.03(5) 1_545 1_545 ?
+O4A P1B Pb2D 48.3(2) 3_655 1_545 ?
+Pb1A P1B Pb2D 136.49(13) 3 1_545 ?
+O2A P1B Pb1A 120.3(4) . 2_545 ?
+O1A P1B Pb1A 82.6(3) . 2_545 ?
+O3B P1B Pb1A 120.4(5) . 2_545 ?
+O4A P1B Pb1A 26.3(3) . 2_545 ?
+Pb1A P1B Pb1A 145.52(9) . 2_545 ?
+Pb2A P1B Pb1A 74.85(6) 1_545 2_545 ?
+O4A P1B Pb1A 106.89(16) 3_655 2_545 ?
+Pb1A P1B Pb1A 134.14(9) 3 2_545 ?
+Pb2D P1B Pb1A 73.05(6) 1_545 2_545 ?
+P1B O1A Pb2A 128.1(7) . 4 ?
+P1B O1A O4A 35.8(3) . . ?
+Pb2A O1A O4A 107.8(5) 4 . ?
+P1B O1A O2A 34.5(4) . . ?
+Pb2A O1A O2A 162.3(5) 4 . ?
+O4A O1A O2A 59.9(4) . . ?
+P1B O1A O3B 33.6(4) . . ?
+Pb2A O1A O3B 105.1(5) 4 . ?
+O4A O1A O3B 58.9(4) . . ?
+O2A O1A O3B 58.1(3) . . ?
+P1B O1A Pb2B 126.5(7) . 4 ?
+Pb2A O1A Pb2B 92.0(3) 4 4 ?
+O4A O1A Pb2B 106.3(5) . 4 ?
+O2A O1A Pb2B 103.5(5) . 4 ?
+O3B O1A Pb2B 159.9(5) . 4 ?
+P1B O1A Pb1A 102.7(4) . 3 ?
+Pb2A O1A Pb1A 103.2(3) 4 3 ?
+O4A O1A Pb1A 138.4(4) . 3 ?
+O2A O1A Pb1A 82.9(3) . 3 ?
+O3B O1A Pb1A 86.9(4) . 3 ?
+Pb2B O1A Pb1A 99.5(3) 4 3 ?
+P1B O1A O3B 105.4(6) . 5 ?
+Pb2A O1A O3B 59.9(4) 4 5 ?
+O4A O1A O3B 124.5(6) . 5 ?
+O2A O1A O3B 114.6(4) . 5 ?
+O3B O1A O3B 72.2(5) . 5 ?
+Pb2B O1A O3B 126.6(4) 4 5 ?
+Pb1A O1A O3B 53.0(3) 3 5 ?
+P1B O1A O1A 179.1(6) . 2_445 ?
+Pb2A O1A O1A 51.85(19) 4 2_445 ?
+O4A O1A O1A 145.0(4) . 2_445 ?
+O2A O1A O1A 145.4(4) . 2_445 ?
+O3B O1A O1A 145.6(4) . 2_445 ?
+Pb2B O1A O1A 54.23(18) 4 2_445 ?
+Pb1A O1A O1A 76.5(3) 3 2_445 ?
+O3B O1A O1A 73.8(4) 5 2_445 ?
+P1B O1A O1A 120.8(5) . 3_545 ?
+Pb2A O1A O1A 51.85(19) 4 3_545 ?
+O4A O1A O1A 85.0(4) . 3_545 ?
+O2A O1A O1A 132.7(4) . 3_545 ?
+O3B O1A O1A 130.5(5) . 3_545 ?
+Pb2B O1A O1A 54.23(18) 4 3_545 ?
+Pb1A O1A O1A 136.4(3) 3 3_545 ?
+O3B O1A O1A 111.3(3) 5 3_545 ?
+O1A O1A O1A 60.000(1) 2_445 3_545 ?
+P1B O1A O2B 106.6(6) . 4 ?
+Pb2A O1A O2B 124.1(4) 4 4 ?
+O4A O1A O2B 124.7(6) . 4 ?
+O2A O1A O2B 72.4(4) . 4 ?
+O3B O1A O2B 116.9(4) . 4 ?
+Pb2B O1A O2B 58.1(3) 4 4 ?
+Pb1A O1A O2B 48.2(2) 3 4 ?
+O3B O1A O2B 99.0(3) 5 4 ?
+O1A O1A O2B 73.2(3) 2_445 4 ?
+O1A O1A O2B 111.4(3) 3_545 4 ?
+P1B O1A Pb1A 72.7(3) . 2_545 ?
+Pb2A O1A Pb1A 82.7(2) 4 2_545 ?
+O4A O1A Pb1A 36.9(2) . 2_545 ?
+O2A O1A Pb1A 91.3(3) . 2_545 ?
+O3B O1A Pb1A 91.0(4) . 2_545 ?
+Pb2B O1A Pb1A 80.8(2) 4 2_545 ?
+Pb1A O1A Pb1A 174.1(4) 3 2_545 ?
+O3B O1A Pb1A 131.3(5) 5 2_545 ?
+O1A O1A Pb1A 108.1(3) 2_445 2_545 ?
+O1A O1A Pb1A 48.1(3) 3_545 2_545 ?
+O2B O1A Pb1A 128.8(4) 4 2_545 ?
+P1A O1B Pb2D 134.7(7) . 4_665 ?
+P1A O1B O4B 34.8(3) . . ?
+Pb2D O1B O4B 121.5(5) 4_665 . ?
+P1A O1B O2B 34.3(4) . . ?
+Pb2D O1B O2B 105.6(5) 4_665 . ?
+O4B O1B O2B 59.1(4) . . ?
+P1A O1B O3A 34.9(4) . . ?
+Pb2D O1B O3A 161.6(6) 4_665 . ?
+O4B O1B O3A 59.9(4) . . ?
+O2B O1B O3A 58.1(3) . . ?
+P1A O1B Pb2C 130.1(7) . 4_666 ?
+Pb2D O1B Pb2C 91.8(3) 4_665 4_666 ?
+O4B O1B Pb2C 112.9(5) . 4_666 ?
+O2B O1B Pb2C 162.5(5) . 4_666 ?
+O3A O1B Pb2C 104.5(5) . 4_666 ?
+P1A O1B O1B 135.9(6) . 3_665 ?
+Pb2D O1B O1B 51.4(2) 4_665 3_665 ?
+O4B O1B O1B 101.3(4) . 3_665 ?
+O2B O1B O1B 139.3(4) . 3_665 ?
+O3A O1B O1B 146.4(4) . 3_665 ?
+Pb2C O1B O1B 54.58(19) 4_666 3_665 ?
+P1A O1B O1B 164.1(6) . 2_655 ?
+Pb2D O1B O1B 51.4(2) 4_665 2_655 ?
+O4B O1B O1B 160.9(4) . 2_655 ?
+O2B O1B O1B 137.1(4) . 2_655 ?
+O3A O1B O1B 133.6(4) . 2_655 ?
+Pb2C O1B O1B 54.58(19) 4_666 2_655 ?
+O1B O1B O1B 60.000(1) 3_665 2_655 ?
+P1A O1B Pb1B 90.0(4) . 3 ?
+Pb2D O1B Pb1B 101.4(3) 4_665 3 ?
+O4B O1B Pb1B 124.3(4) . 3 ?
+O2B O1B Pb1B 77.4(3) . 3 ?
+O3A O1B Pb1B 68.4(3) . 3 ?
+Pb2C O1B Pb1B 98.0(3) 4_666 3 ?
+O1B O1B Pb1B 134.1(3) 3_665 3 ?
+O1B O1B Pb1B 74.1(3) 2_655 3 ?
+P1A O1B O2A 99.9(6) . 6 ?
+Pb2D O1B O2A 59.2(3) 4_665 6 ?
+O4B O1B O2A 124.1(6) . 6 ?
+O2B O1B O2A 67.2(4) . 6 ?
+O3A O1B O2A 103.9(4) . 6 ?
+Pb2C O1B O2A 123.0(3) 4_666 6 ?
+O1B O1B O2A 109.6(3) 3_665 6 ?
+O1B O1B O2A 70.0(3) 2_655 6 ?
+Pb1B O1B O2A 50.8(2) 3 6 ?
+P1A O1B O3A 96.1(5) . 5_556 ?
+Pb2D O1B O3A 123.9(3) 4_665 5_556 ?
+O4B O1B O3A 114.1(5) . 5_556 ?
+O2B O1B O3A 108.7(4) . 5_556 ?
+O3A O1B O3A 61.2(4) . 5_556 ?
+Pb2C O1B O3A 58.4(3) 4_666 5_556 ?
+O1B O1B O3A 111.9(3) 3_665 5_556 ?
+O1B O1B O3A 73.5(3) 2_655 5_556 ?
+Pb1B O1B O3A 47.6(2) 3 5_556 ?
+O2A O1B O3A 96.2(3) 6 5_556 ?
+P1A O1B O2A 90.2(5) . 5_665 ?
+Pb2D O1B O2A 53.5(3) 4_665 5_665 ?
+O4B O1B O2A 68.0(4) . 5_665 ?
+O2B O1B O2A 80.3(4) . 5_665 ?
+O3A O1B O2A 124.5(5) . 5_665 ?
+Pb2C O1B O2A 112.2(3) 4_666 5_665 ?
+O1B O1B O2A 59.0(3) 3_665 5_665 ?
+O1B O1B O2A 101.8(3) 2_655 5_665 ?
+Pb1B O1B O2A 139.7(4) 3 5_665 ?
+O2A O1B O2A 89.6(5) 6 5_665 ?
+O3A O1B O2A 170.6(4) 5_556 5_665 ?
+P1B O2A O3B 36.6(4) . . ?
+P1B O2A O4A 35.7(4) . . ?
+O3B O2A O4A 60.2(5) . . ?
+P1B O2A O1A 34.9(4) . . ?
+O3B O2A O1A 62.0(5) . . ?
+O4A O2A O1A 60.0(4) . . ?
+P1B O2A Pb1A 101.5(5) . . ?
+O3B O2A Pb1A 65.0(5) . . ?
+O4A O2A Pb1A 112.4(4) . . ?
+O1A O2A Pb1A 120.3(4) . . ?
+P1B O2A Pb1B 144.3(7) . 4 ?
+O3B O2A Pb1B 160.1(7) . 4 ?
+O4A O2A Pb1B 134.8(5) . 4 ?
+O1A O2A Pb1B 110.9(5) . 4 ?
+Pb1A O2A Pb1B 109.5(4) . 4 ?
+P1B O2A Pb2D 96.6(5) . 1_545 ?
+O3B O2A Pb2D 103.3(6) . 1_545 ?
+O4A O2A Pb2D 61.9(3) . 1_545 ?
+O1A O2A Pb2D 118.7(5) . 1_545 ?
+Pb1A O2A Pb2D 98.0(4) . 1_545 ?
+Pb1B O2A Pb2D 96.4(3) 4 1_545 ?
+P1B O2A O4A 89.9(5) . 3_655 ?
+O3B O2A O4A 66.3(5) . 3_655 ?
+O4A O2A O4A 77.6(5) . 3_655 ?
+O1A O2A O4A 124.4(4) . 3_655 ?
+Pb1A O2A O4A 45.2(2) . 3_655 ?
+Pb1B O2A O4A 124.6(4) 4 3_655 ?
+Pb2D O2A O4A 55.8(3) 1_545 3_655 ?
+P1B O2A O2B 145.5(6) . 5 ?
+O3B O2A O2B 110.9(6) . 5 ?
+O4A O2A O2B 132.4(5) . 5 ?
+O1A O2A O2B 162.6(5) . 5 ?
+Pb1A O2A O2B 47.1(2) . 5 ?
+Pb1B O2A O2B 70.0(3) 4 5 ?
+Pb2D O2A O2B 77.7(4) 1_545 5 ?
+O4A O2A O2B 58.5(4) 3_655 5 ?
+P1B O2A O1B 141.4(6) . 5 ?
+O3B O2A O1B 136.0(7) . 5 ?
+O4A O2A O1B 106.2(4) . 5 ?
+O1A O2A O1B 151.5(5) . 5 ?
+Pb1A O2A O1B 87.5(4) . 5 ?
+Pb1B O2A O1B 59.2(3) 4 5 ?
+Pb2D O2A O1B 44.8(2) 1_545 5 ?
+O4A O2A O1B 70.0(4) 3_655 5 ?
+O2B O2A O1B 44.7(3) 5 5 ?
+P1B O2A O2B 97.1(6) . 4 ?
+O3B O2A O2B 111.9(6) . 4 ?
+O4A O2A O2B 116.0(5) . 4 ?
+O1A O2A O2B 62.4(4) . 4 ?
+Pb1A O2A O2B 119.0(4) . 4 ?
+Pb1B O2A O2B 52.4(3) 4 4 ?
+Pb2D O2A O2B 136.8(4) 1_545 4 ?
+O4A O2A O2B 164.0(4) 3_655 4 ?
+O2B O2A O2B 110.4(4) 5 4 ?
+O1B O2A O2B 111.3(4) 5 4 ?
+P1B O2A Pb1A 75.7(4) . 3 ?
+O3B O2A Pb1A 73.7(4) . 3 ?
+O4A O2A Pb1A 109.6(4) . 3 ?
+O1A O2A Pb1A 52.0(3) . 3 ?
+Pb1A O2A Pb1A 88.8(3) . 3 ?
+Pb1B O2A Pb1A 87.4(3) 4 3 ?
+Pb2D O2A Pb1A 170.7(4) 1_545 3 ?
+O4A O2A Pb1A 128.2(4) 3_655 3 ?
+O2B O2A Pb1A 111.6(3) 5 3 ?
+O1B O2A Pb1A 142.6(4) 5 3 ?
+O2B O2A Pb1A 41.47(19) 4 3 ?
+P1A O2B Pb1A 145.6(7) . 6 ?
+P1A O2B O3A 37.3(4) . . ?
+Pb1A O2B O3A 151.9(6) 6 . ?
+P1A O2B O4B 35.7(4) . . ?
+Pb1A O2B O4B 142.0(5) 6 . ?
+O3A O2B O4B 61.3(5) . . ?
+P1A O2B O1B 34.4(4) . . ?
+Pb1A O2B O1B 111.5(5) 6 . ?
+O3A O2B O1B 61.1(5) . . ?
+O4B O2B O1B 60.3(4) . . ?
+P1A O2B Pb1B 92.3(5) . . ?
+Pb1A O2B Pb1B 113.8(4) 6 . ?
+O3A O2B Pb1B 55.6(4) . . ?
+O4B O2B Pb1B 102.5(4) . . ?
+O1B O2B Pb1B 113.2(4) . . ?
+P1A O2B Pb2B 92.9(5) . . ?
+Pb1A O2B Pb2B 103.2(3) 6 . ?
+O3A O2B Pb2B 104.5(6) . . ?
+O4B O2B Pb2B 57.5(3) . . ?
+O1B O2B Pb2B 113.6(4) . . ?
+Pb1B O2B Pb2B 100.7(4) . . ?
+P1A O2B O4A 107.0(6) . 5_665 ?
+Pb1A O2B O4A 45.0(3) 6 5_665 ?
+O3A O2B O4A 141.6(7) . 5_665 ?
+O4B O2B O4A 98.3(5) . 5_665 ?
+O1B O2B O4A 80.7(4) . 5_665 ?
+Pb1B O2B O4A 158.8(5) . 5_665 ?
+Pb2B O2B O4A 87.2(3) . 5_665 ?
+P1A O2B O1A 145.0(6) . 4 ?
+Pb1A O2B O1A 58.5(3) 6 4 ?
+O3A O2B O1A 140.7(7) . 4 ?
+O4B O2B O1A 109.4(5) . 4 ?
+O1B O2B O1A 151.7(5) . 4 ?
+Pb1B O2B O1A 94.5(4) . 4 ?
+Pb2B O2B O1A 52.1(2) . 4 ?
+O4A O2B O1A 74.7(3) 5_665 4 ?
+P1A O2B O4B 80.9(5) . 3_565 ?
+Pb1A O2B O4B 132.4(5) 6 3_565 ?
+O3A O2B O4B 65.9(5) . 3_565 ?
+O4B O2B O4B 63.2(4) . 3_565 ?
+O1B O2B O4B 115.3(4) . 3_565 ?
+Pb1B O2B O4B 53.4(3) . 3_565 ?
+Pb2B O2B O4B 49.8(3) . 3_565 ?
+O4A O2B O4B 136.9(4) 5_665 3_565 ?
+O1A O2B O4B 75.9(4) 4 3_565 ?
+P1A O2B O5A 101.4(9) . . ?
+Pb1A O2B O5A 84.4(9) 6 . ?
+O3A O2B O5A 70.5(9) . . ?
+O4B O2B O5A 131.8(9) . . ?
+O1B O2B O5A 96.9(6) . . ?
+Pb1B O2B O5A 44.5(5) . . ?
+Pb2B O2B O5A 142.2(4) . . ?
+O4A O2B O5A 120.7(7) 5_665 . ?
+O1A O2B O5A 107.5(7) 4 . ?
+O4B O2B O5A 97.9(5) 3_565 . ?
+P1A O2B O2A 101.0(6) . 6 ?
+Pb1A O2B O2A 49.8(3) 6 6 ?
+O3A O2B O2A 106.5(5) . 6 ?
+O4B O2B O2A 126.2(5) . 6 ?
+O1B O2B O2A 68.2(4) . 6 ?
+Pb1B O2B O2A 111.3(3) . 6 ?
+Pb2B O2B O2A 144.3(4) . 6 ?
+O4A O2B O2A 57.4(3) 5_665 6 ?
+O1A O2B O2A 108.3(4) 4 6 ?
+O4B O2B O2A 164.7(4) 3_565 6 ?
+O5A O2B O2A 66.8(4) . 6 ?
+P1A O3A Pb1B 104.7(5) . . ?
+P1A O3A O2B 36.8(4) . . ?
+Pb1B O3A O2B 68.6(4) . . ?
+P1A O3A O4B 35.0(4) . . ?
+Pb1B O3A O4B 111.2(5) . . ?
+O2B O3A O4B 60.0(5) . . ?
+P1A O3A O1B 34.5(4) . . ?
+Pb1B O3A O1B 125.0(5) . . ?
+O2B O3A O1B 60.9(5) . . ?
+O4B O3A O1B 59.9(4) . . ?
+P1A O3A Pb1B 143.4(7) . 5_556 ?
+Pb1B O3A Pb1B 111.6(4) . 5_556 ?
+O2B O3A Pb1B 169.0(7) . 5_556 ?
+O4B O3A Pb1B 127.3(5) . 5_556 ?
+O1B O3A Pb1B 114.0(5) . 5_556 ?
+P1A O3A O5B 111.6(10) . . ?
+Pb1B O3A O5B 47.5(4) . . ?
+O2B O3A O5B 81.9(10) . . ?
+O4B O3A O5B 141.9(10) . . ?
+O1B O3A O5B 103.3(7) . . ?
+Pb1B O3A O5B 90.4(10) 5_556 . ?
+P1A O3A O4B 83.2(5) . 3_565 ?
+Pb1B O3A O4B 56.4(3) . 3_565 ?
+O2B O3A O4B 69.0(5) . 3_565 ?
+O4B O3A O4B 64.2(4) . 3_565 ?
+O1B O3A O4B 117.6(5) . 3_565 ?
+Pb1B O3A O4B 120.8(5) 5_556 3_565 ?
+O5B O3A O4B 103.9(5) . 3_565 ?
+P1A O3A Pb2C 85.2(5) . . ?
+Pb1B O3A Pb2C 100.2(4) . . ?
+O2B O3A Pb2C 98.1(5) . . ?
+O4B O3A Pb2C 50.6(3) . . ?
+O1B O3A Pb2C 106.7(4) . . ?
+Pb1B O3A Pb2C 92.6(3) 5_556 . ?
+O5B O3A Pb2C 145.5(5) . . ?
+O4B O3A Pb2C 46.5(3) 3_565 . ?
+P1A O3A Pb1B 85.4(5) . 3 ?
+Pb1B O3A Pb1B 85.3(3) . 3 ?
+O2B O3A Pb1B 76.1(4) . 3 ?
+O4B O3A Pb1B 119.8(5) . 3 ?
+O1B O3A Pb1B 63.6(3) . 3 ?
+Pb1B O3A Pb1B 93.0(3) 5_556 3 ?
+O5B O3A Pb1B 42.5(3) . 3 ?
+O4B O3A Pb1B 135.1(4) 3_565 3 ?
+Pb2C O3A Pb1B 170.1(4) . 3 ?
+P1A O3A O3A 150.2(7) . 6_556 ?
+Pb1B O3A O3A 55.10(18) . 6_556 ?
+O2B O3A O3A 121.4(6) . 6_556 ?
+O4B O3A O3A 125.6(5) . 6_556 ?
+O1B O3A O3A 174.5(5) . 6_556 ?
+Pb1B O3A O3A 62.9(3) 5_556 6_556 ?
+O5B O3A O3A 72.6(6) . 6_556 ?
+O4B O3A O3A 67.5(4) 3_565 6_556 ?
+Pb2C O3A O3A 78.3(4) . 6_556 ?
+Pb1B O3A O3A 111.5(2) 3 6_556 ?
+P1A O3A O3A 110.5(7) . 5_556 ?
+Pb1B O3A O3A 118.3(3) . 5_556 ?
+O2B O3A O3A 122.6(6) . 5_556 ?
+O4B O3A O3A 126.8(6) . 5_556 ?
+O1B O3A O3A 76.0(5) . 5_556 ?
+Pb1B O3A O3A 47.0(3) 5_556 5_556 ?
+O5B O3A O3A 72.6(6) . 5_556 ?
+O4B O3A O3A 166.3(5) 3_565 5_556 ?
+Pb2C O3A O3A 131.1(5) . 5_556 ?
+Pb1B O3A O3A 50.40(16) 3 5_556 ?
+O3A O3A O3A 99.0(4) 6_556 5_556 ?
+P1B O3B O2A 36.0(3) . . ?
+P1B O3B O4A 36.4(4) . . ?
+O2A O3B O4A 60.7(5) . . ?
+P1B O3B O1A 33.4(4) . . ?
+O2A O3B O1A 59.9(5) . . ?
+O4A O3B O1A 59.4(4) . . ?
+P1B O3B Pb1A 140.0(7) . 5 ?
+O2A O3B Pb1A 156.8(7) . 5 ?
+O4A O3B Pb1A 133.0(6) . 5 ?
+O1A O3B Pb1A 107.9(5) . 5 ?
+P1B O3B Pb1A 94.9(5) . . ?
+O2A O3B Pb1A 58.9(4) . . ?
+O4A O3B Pb1A 108.0(4) . . ?
+O1A O3B Pb1A 113.1(4) . . ?
+Pb1A O3B Pb1A 117.7(5) 5 . ?
+P1B O3B Pb2A 97.9(6) . 1_545 ?
+O2A O3B Pb2A 104.3(6) . 1_545 ?
+O4A O3B Pb2A 62.7(4) . 1_545 ?
+O1A O3B Pb2A 119.7(6) . 1_545 ?
+Pb1A O3B Pb2A 98.9(3) 5 1_545 ?
+Pb1A O3B Pb2A 99.1(4) . 1_545 ?
+P1B O3B O1A 147.6(8) . 6 ?
+O2A O3B O1A 141.1(7) . 6 ?
+O4A O3B O1A 111.5(6) . 6 ?
+O1A O3B O1A 153.5(5) . 6 ?
+Pb1A O3B O1A 58.0(3) 5 6 ?
+Pb1A O3B O1A 93.3(4) . 6 ?
+Pb2A O3B O1A 49.9(3) 1_545 6 ?
+P1B O3B O4A 89.8(5) . 3_655 ?
+O2A O3B O4A 66.6(5) . 3_655 ?
+O4A O3B O4A 78.0(5) . 3_655 ?
+O1A O3B O4A 122.7(4) . 3_655 ?
+Pb1A O3B O4A 129.4(5) 5 3_655 ?
+Pb1A O3B O4A 44.6(2) . 3_655 ?
+Pb2A O3B O4A 55.9(3) 1_545 3_655 ?
+O1A O3B O4A 74.5(4) 6 3_655 ?
+P1B O3B O4A 102.8(7) . 4_545 ?
+O2A O3B O4A 138.2(8) . 4_545 ?
+O4A O3B O4A 89.9(6) . 4_545 ?
+O1A O3B O4A 80.1(5) . 4_545 ?
+Pb1A O3B O4A 43.7(2) 5 4_545 ?
+Pb1A O3B O4A 161.4(5) . 4_545 ?
+Pb2A O3B O4A 84.4(4) 1_545 4_545 ?
+O1A O3B O4A 74.9(3) 6 4_545 ?
+O4A O3B O4A 139.8(5) 3_655 4_545 ?
+P1B O3B O3B 143.6(7) . 6 ?
+O2A O3B O3B 108.6(6) . 6 ?
+O4A O3B O3B 134.9(6) . 6 ?
+O1A O3B O3B 157.5(5) . 6 ?
+Pb1A O3B O3B 75.1(4) 5 6 ?
+Pb1A O3B O3B 50.2(2) . 6 ?
+Pb2A O3B O3B 80.8(5) 1_545 6 ?
+O1A O3B O3B 46.9(4) 6 6 ?
+O4A O3B O3B 59.1(4) 3_655 6 ?
+O4A O3B O3B 113.2(5) 4_545 6 ?
+P1B O3B O3B 94.0(6) . 5 ?
+O2A O3B O3B 107.2(6) . 5 ?
+O4A O3B O3B 115.0(6) . 5 ?
+O1A O3B O3B 60.9(4) . 5 ?
+Pb1A O3B O3B 51.9(3) 5 5 ?
+Pb1A O3B O3B 117.1(3) . 5 ?
+Pb2A O3B O3B 140.7(5) 1_545 5 ?
+O1A O3B O3B 109.9(5) 6 5 ?
+O4A O3B O3B 161.7(4) 3_655 5 ?
+O4A O3B O3B 56.4(4) 4_545 5 ?
+O3B O3B O3B 110.1(3) 6 5 ?
+P1B O4A Pb1A 135.8(5) . 2_545 ?
+P1B O4A O3B 36.1(4) . . ?
+Pb1A O4A O3B 144.0(6) 2_545 . ?
+P1B O4A O2A 34.8(4) . . ?
+Pb1A O4A O2A 141.7(6) 2_545 . ?
+O3B O4A O2A 59.1(3) . . ?
+P1B O4A O1A 35.4(3) . . ?
+Pb1A O4A O1A 100.4(3) 2_545 . ?
+O3B O4A O1A 61.7(4) . . ?
+O2A O4A O1A 60.1(4) . . ?
+P1B O4A Pb2A 99.4(5) . 1_545 ?
+Pb1A O4A Pb2A 113.5(4) 2_545 1_545 ?
+O3B O4A Pb2A 64.5(4) . 1_545 ?
+O2A O4A Pb2A 104.4(4) . 1_545 ?
+O1A O4A Pb2A 123.5(5) . 1_545 ?
+P1B O4A Pb2D 100.6(5) . 1_545 ?
+Pb1A O4A Pb2D 109.8(4) 2_545 1_545 ?
+O3B O4A Pb2D 105.9(4) . 1_545 ?
+O2A O4A Pb2D 66.7(3) . 1_545 ?
+O1A O4A Pb2D 123.4(6) . 1_545 ?
+Pb2A O4A Pb2D 86.4(2) 1_545 1_545 ?
+P1B O4A O3B 153.0(8) . 2_545 ?
+Pb1A O4A O3B 58.2(3) 2_545 2_545 ?
+O3B O4A O3B 117.4(7) . 2_545 ?
+O2A O4A O3B 153.8(5) . 2_545 ?
+O1A O4A O3B 144.4(6) . 2_545 ?
+Pb2A O4A O3B 57.2(3) 1_545 2_545 ?
+Pb2D O4A O3B 91.9(3) 1_545 2_545 ?
+P1B O4A O2A 157.2(8) . 2_545 ?
+Pb1A O4A O2A 54.2(3) 2_545 2_545 ?
+O3B O4A O2A 152.9(5) . 2_545 ?
+O2A O4A O2A 122.8(6) . 2_545 ?
+O1A O4A O2A 145.1(5) . 2_545 ?
+Pb2A O4A O2A 90.6(3) 1_545 2_545 ?
+Pb2D O4A O2A 59.5(3) 1_545 2_545 ?
+O3B O4A O2A 47.1(2) 2_545 2_545 ?
+P1B O4A O2B 104.9(6) . 6_545 ?
+Pb1A O4A O2B 50.8(3) 2_545 6_545 ?
+O3B O4A O2B 140.6(5) . 6_545 ?
+O2A O4A O2B 91.9(5) . 6_545 ?
+O1A O4A O2B 81.3(4) . 6_545 ?
+Pb2A O4A O2B 154.7(4) 1_545 6_545 ?
+Pb2D O4A O2B 82.4(4) 1_545 6_545 ?
+O3B O4A O2B 100.4(3) 2_545 6_545 ?
+O2A O4A O2B 64.2(4) 2_545 6_545 ?
+P1B O4A O3B 102.9(6) . 4_545 ?
+Pb1A O4A O3B 54.8(3) 2_545 4_545 ?
+O3B O4A O3B 90.1(6) . 4_545 ?
+O2A O4A O3B 137.3(5) . 4_545 ?
+O1A O4A O3B 80.0(4) . 4_545 ?
+Pb2A O4A O3B 84.5(4) 1_545 4_545 ?
+Pb2D O4A O3B 155.9(4) 1_545 4_545 ?
+O3B O4A O3B 64.5(5) 2_545 4_545 ?
+O2A O4A O3B 98.3(4) 2_545 4_545 ?
+O2B O4A O3B 96.7(3) 6_545 4_545 ?
+P1B O4A P1B 159.3(4) . 2_545 ?
+Pb1A O4A P1B 64.9(2) 2_545 2_545 ?
+O3B O4A P1B 129.3(5) . 2_545 ?
+O2A O4A P1B 132.3(4) . 2_545 ?
+O1A O4A P1B 165.3(4) . 2_545 ?
+Pb2A O4A P1B 65.1(2) 1_545 2_545 ?
+Pb2D O4A P1B 66.26(19) 1_545 2_545 ?
+O3B O4A P1B 26.6(2) 2_545 2_545 ?
+O2A O4A P1B 26.2(2) 2_545 2_545 ?
+O2B O4A P1B 89.6(3) 6_545 2_545 ?
+O3B O4A P1B 89.7(4) 4_545 2_545 ?
+P1A O4B O2B 35.5(4) . . ?
+P1A O4B Pb2C 113.1(5) . . ?
+O2B O4B Pb2C 117.8(4) . . ?
+P1A O4B O3A 35.3(4) . . ?
+O2B O4B O3A 58.7(4) . . ?
+Pb2C O4B O3A 78.2(4) . . ?
+P1A O4B O1B 34.7(3) . . ?
+O2B O4B O1B 60.5(4) . . ?
+Pb2C O4B O1B 132.0(6) . . ?
+O3A O4B O1B 60.3(4) . . ?
+P1A O4B Pb2B 103.3(6) . . ?
+O2B O4B Pb2B 68.1(4) . . ?
+Pb2C O4B Pb2B 91.6(3) . . ?
+O3A O4B Pb2B 110.5(4) . . ?
+O1B O4B Pb2B 123.5(6) . . ?
+P1A O4B Pb1B 122.9(4) . 2_665 ?
+O2B O4B Pb1B 130.2(5) . 2_665 ?
+Pb2C O4B Pb1B 111.9(4) . 2_665 ?
+O3A O4B Pb1B 139.0(5) . 2_665 ?
+O1B O4B Pb1B 88.4(3) . 2_665 ?
+Pb2B O4B Pb1B 108.8(4) . 2_665 ?
+P1A O4B O4B 86.8(5) . 3_565 ?
+O2B O4B O4B 70.3(4) . 3_565 ?
+Pb2C O4B O4B 52.1(2) . 3_565 ?
+O3A O4B O4B 68.1(5) . 3_565 ?
+O1B O4B O4B 121.4(5) . 3_565 ?
+Pb2B O4B O4B 53.57(18) . 3_565 ?
+Pb1B O4B O4B 149.9(4) 2_665 3_565 ?
+P1A O4B O4B 146.3(5) . 2_665 ?
+O2B O4B O4B 118.0(4) . 2_665 ?
+Pb2C O4B O4B 52.1(2) . 2_665 ?
+O3A O4B O4B 122.9(4) . 2_665 ?
+O1B O4B O4B 175.8(4) . 2_665 ?
+Pb2B O4B O4B 53.57(18) . 2_665 ?
+Pb1B O4B O4B 90.0(4) 2_665 2_665 ?
+O4B O4B O4B 60.000(1) 3_565 2_665 ?
+P1A O4B O3A 163.5(7) . 2_665 ?
+O2B O4B O3A 160.4(6) . 2_665 ?
+Pb2C O4B O3A 66.8(3) . 2_665 ?
+O3A O4B O3A 138.1(6) . 2_665 ?
+O1B O4B O3A 132.4(5) . 2_665 ?
+Pb2B O4B O3A 93.3(3) . 2_665 ?
+Pb1B O4B O3A 48.4(3) 2_665 2_665 ?
+O4B O4B O3A 104.2(3) 3_565 2_665 ?
+O4B O4B O3A 47.7(3) 2_665 2_665 ?
+P1A O4B O2B 146.6(7) . 2_665 ?
+O2B O4B O2B 115.9(6) . 2_665 ?
+Pb2C O4B O2B 95.5(3) . 2_665 ?
+O3A O4B O2B 166.4(5) . 2_665 ?
+O1B O4B O2B 129.9(5) . 2_665 ?
+Pb2B O4B O2B 57.2(3) . 2_665 ?
+Pb1B O4B O2B 54.5(3) 2_665 2_665 ?
+O4B O4B O2B 98.5(3) 3_565 2_665 ?
+O4B O4B O2B 46.5(3) 2_665 2_665 ?
+O3A O4B O2B 45.2(3) 2_665 2_665 ?
+P1A O4B P1A 169.2(7) . 2_665 ?
+O2B O4B P1A 133.7(5) . 2_665 ?
+Pb2C O4B P1A 69.5(2) . 2_665 ?
+O3A O4B P1A 147.2(5) . 2_665 ?
+O1B O4B P1A 150.7(4) . 2_665 ?
+Pb2B O4B P1A 65.9(2) . 2_665 ?
+Pb1B O4B P1A 62.83(18) 2_665 2_665 ?
+O4B O4B P1A 87.1(2) 3_565 2_665 ?
+O4B O4B P1A 27.2(2) 2_665 2_665 ?
+O3A O4B P1A 27.3(2) 2_665 2_665 ?
+O2B O4B P1A 26.8(2) 2_665 2_665 ?
+O5B O5A Pb1B 72.9(11) . 2 ?
+O5B O5A Pb1B 72.9(11) . 3 ?
+Pb1B O5A Pb1B 111.7(10) 2 3 ?
+O5B O5A Pb1B 72.9(11) . . ?
+Pb1B O5A Pb1B 111.7(10) 2 . ?
+Pb1B O5A Pb1B 111.7(10) 3 . ?
+O5B O5A O2B 102.4(8) . . ?
+Pb1B O5A O2B 168.3(8) 2 . ?
+Pb1B O5A O2B 76.2(2) 3 . ?
+Pb1B O5A O2B 56.6(2) . . ?
+O5B O5A O2B 102.4(8) . 2 ?
+Pb1B O5A O2B 56.6(2) 2 2 ?
+Pb1B O5A O2B 168.3(8) 3 2 ?
+Pb1B O5A O2B 76.2(2) . 2 ?
+O2B O5A O2B 115.5(6) . 2 ?
+O5B O5A O2B 102.4(8) . 3 ?
+Pb1B O5A O2B 76.2(2) 2 3 ?
+Pb1B O5A O2B 56.6(2) 3 3 ?
+Pb1B O5A O2B 168.3(8) . 3 ?
+O2B O5A O2B 115.5(6) . 3 ?
+O2B O5A O2B 115.5(6) 2 3 ?
+O5B O5A O3A 58.8(7) . . ?
+Pb1B O5A O3A 130.6(18) 2 . ?
+Pb1B O5A O3A 64.9(6) 3 . ?
+Pb1B O5A O3A 46.8(5) . . ?
+O2B O5A O3A 43.6(2) . . ?
+O2B O5A O3A 122.4(6) 2 . ?
+O2B O5A O3A 121.5(6) 3 . ?
+O5B O5A O3A 58.8(7) . 2 ?
+Pb1B O5A O3A 46.8(5) 2 2 ?
+Pb1B O5A O3A 130.6(18) 3 2 ?
+Pb1B O5A O3A 64.9(6) . 2 ?
+O2B O5A O3A 121.5(6) . 2 ?
+O2B O5A O3A 43.6(2) 2 2 ?
+O2B O5A O3A 122.4(6) 3 2 ?
+O3A O5A O3A 95.6(10) . 2 ?
+O5B O5A O3A 58.8(7) . 3 ?
+Pb1B O5A O3A 64.9(6) 2 3 ?
+Pb1B O5A O3A 46.8(5) 3 3 ?
+Pb1B O5A O3A 130.6(18) . 3 ?
+O2B O5A O3A 122.4(6) . 3 ?
+O2B O5A O3A 121.5(6) 2 3 ?
+O2B O5A O3A 43.6(2) 3 3 ?
+O3A O5A O3A 95.6(10) . 3 ?
+O3A O5A O3A 95.6(10) 2 3 ?
+O5B O5A O2A 121.2(7) . 5 ?
+Pb1B O5A O2A 49.6(5) 2 5 ?
+Pb1B O5A O2A 114.1(5) 3 5 ?
+Pb1B O5A O2A 134.2(6) . 5 ?
+O2B O5A O2A 136.4(15) . 5 ?
+O2B O5A O2A 58.7(4) 2 5 ?
+O2B O5A O2A 57.5(4) 3 5 ?
+O3A O5A O2A 178.9(4) . 5 ?
+O3A O5A O2A 85.2(3) 2 5 ?
+O3A O5A O2A 83.6(3) 3 5 ?
+O5B O5A O2A 121.2(7) . 6 ?
+Pb1B O5A O2A 134.2(6) 2 6 ?
+Pb1B O5A O2A 49.6(5) 3 6 ?
+Pb1B O5A O2A 114.1(5) . 6 ?
+O2B O5A O2A 57.5(4) . 6 ?
+O2B O5A O2A 136.4(15) 2 6 ?
+O2B O5A O2A 58.7(4) 3 6 ?
+O3A O5A O2A 83.6(3) . 6 ?
+O3A O5A O2A 178.9(4) 2 6 ?
+O3A O5A O2A 85.2(3) 3 6 ?
+O2A O5A O2A 95.6(9) 5 6 ?
+O5A O5B Pb1B 82.8(13) . 2 ?
+O5A O5B Pb1B 82.8(13) . 3 ?
+Pb1B O5B Pb1B 118.5(6) 2 3 ?
+O5A O5B Pb1B 82.8(13) . . ?
+Pb1B O5B Pb1B 118.5(6) 2 . ?
+Pb1B O5B Pb1B 118.5(6) 3 . ?
+O5A O5B O3A 105.2(10) . . ?
+Pb1B O5B O3A 166.9(14) 2 . ?
+Pb1B O5B O3A 73.4(3) 3 . ?
+Pb1B O5B O3A 53.8(3) . . ?
+O5A O5B O3A 105.2(10) . 2 ?
+Pb1B O5B O3A 53.8(3) 2 2 ?
+Pb1B O5B O3A 166.9(14) 3 2 ?
+Pb1B O5B O3A 73.4(3) . 2 ?
+O3A O5B O3A 113.4(8) . 2 ?
+O5A O5B O3A 105.2(10) . 3 ?
+Pb1B O5B O3A 73.4(3) 2 3 ?
+Pb1B O5B O3A 53.8(3) 3 3 ?
+Pb1B O5B O3A 166.9(14) . 3 ?
+O3A O5B O3A 113.4(8) . 3 ?
+O3A O5B O3A 113.4(8) 2 3 ?
+O5A O5B O5B 180.000(9) . 4_556 ?
+Pb1B O5B O5B 97.2(13) 2 4_556 ?
+Pb1B O5B O5B 97.2(13) 3 4_556 ?
+Pb1B O5B O5B 97.2(13) . 4_556 ?
+O3A O5B O5B 74.8(10) . 4_556 ?
+O3A O5B O5B 74.8(10) 2 4_556 ?
+O3A O5B O5B 74.8(10) 3 4_556 ?
+O5A O5B O2B 62.4(7) . 2 ?
+Pb1B O5B O2B 50.5(5) 2 2 ?
+Pb1B O5B O2B 143.6(19) 3 2 ?
+Pb1B O5B O2B 70.0(6) . 2 ?
+O3A O5B O2B 123.7(5) . 2 ?
+O3A O5B O2B 42.8(3) 2 2 ?
+O3A O5B O2B 122.8(5) 3 2 ?
+O5B O5B O2B 117.6(7) 4_556 2 ?
+O5A O5B O2B 62.4(8) . . ?
+Pb1B O5B O2B 143.6(19) 2 . ?
+Pb1B O5B O2B 70.0(6) 3 . ?
+Pb1B O5B O2B 50.5(5) . . ?
+O3A O5B O2B 42.8(3) . . ?
+O3A O5B O2B 122.8(5) 2 . ?
+O3A O5B O2B 123.7(5) 3 . ?
+O5B O5B O2B 117.6(8) 4_556 . ?
+O2B O5B O2B 100.2(9) 2 . ?
+O5A O5B O2B 62.4(7) . 3 ?
+Pb1B O5B O2B 70.0(6) 2 3 ?
+Pb1B O5B O2B 50.5(5) 3 3 ?
+Pb1B O5B O2B 143.6(19) . 3 ?
+O3A O5B O2B 122.8(5) . 3 ?
+O3A O5B O2B 123.7(5) 2 3 ?
+O3A O5B O2B 42.8(3) 3 3 ?
+O5B O5B O2B 117.6(7) 4_556 3 ?
+O2B O5B O2B 100.2(9) 2 3 ?
+O2B O5B O2B 100.2(9) . 3 ?
+O5A O5B O3A 129.2(6) . 5_556 ?
+Pb1B O5B O3A 125.4(12) 2 5_556 ?
+Pb1B O5B O3A 47.4(7) 3 5_556 ?
+Pb1B O5B O3A 109.5(9) . 5_556 ?
+O3A O5B O3A 57.4(5) . 5_556 ?
+O3A O5B O3A 125.6(16) 2 5_556 ?
+O3A O5B O3A 57.4(5) 3 5_556 ?
+O5B O5B O3A 50.8(6) 4_556 5_556 ?
+O2B O5B O3A 168.4(14) 2 5_556 ?
+O2B O5B O3A 87.4(3) . 5_556 ?
+O2B O5B O3A 86.8(3) 3 5_556 ?
+ 
+_diffrn_measured_fraction_theta_max    0.980
+_diffrn_reflns_theta_full              34.53
+_diffrn_measured_fraction_theta_full   0.980
+_refine_diff_density_max    4.010
+_refine_diff_density_min   -4.537
+_refine_diff_density_rms    0.669

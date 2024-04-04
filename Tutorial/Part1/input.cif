@@ -1,0 +1,101 @@
+#(C) 2016 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_190689-ICSD
+_database_code_ICSD 190689
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Ytterbium titanium oxide (2.046/1.954/7)'
+_chemical_formula_structural 'Yb2 ((Ti1.954 Yb0.046) O7)'
+_chemical_formula_sum 'O7 Ti1.954 Yb2.046'
+_chemical_name_structure_type Pyrochlore-NaCa(Nb2O6)F
+_exptl_crystal_density_diffrn 7.41
+_cell_measurement_temperature 15.
+_publ_section_title
+
+;
+Lightly stuffed pyrochlore structure of single-crystalline Yb2 Ti2 O7 grown by
+the optical floating zone technique
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2012 86
+174424-1 174424-11 PRBMDO
+loop_
+_publ_author_name
+'Ross, K.A.'
+'Proffen, Th.'
+'Dabkowska, H.A.'
+'Quillian, J.A.'
+'Yaraskavitch, L.R.'
+'Kycia, J.B.'
+'Gaulin, B.D.'
+_cell_length_a 3.40212(5)
+_cell_length_b 3.40212(5)
+_cell_length_c 25.11910(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 251.79
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3 m 1'
+_symmetry_Int_Tables_number 156
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-y, x-y, z'
+3 '-x+y, -x, z'
+4 '-y, -x, z'
+5 '-x+y, y, z'
+6 'x, x-y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Yb3+ 3
+Mg2+ 2
+Ga3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+Yb1   Yb   0.000000   0.000000   0.002784  1.0000   0.000
+Yb2   Yb   0.333333   0.666667   0.669297  1.0000   0.000
+Yb3   Yb   0.666667   0.333333   0.335859  1.0000   0.000
+Mg1   Mg   0.000000   0.000000   0.214505  1.0000   0.000
+Mg2   Mg   0.333333   0.666667   0.881449  1.0000   0.000
+Mg3   Mg   0.666667   0.333333   0.547795  1.0000   0.000
+Ga1   Ga   0.000000   0.000000   0.788196  1.0000   0.000
+Ga2   Ga   0.333333   0.666667   0.454638  1.0000   0.000
+Ga3   Ga   0.666667   0.333333   0.121492  1.0000   0.000
+O1    O    0.000000   0.000000   0.291786  1.0000   0.000
+O2    O    0.333333   0.666667   0.958713  1.0000   0.000
+O3    O    0.666667   0.333333   0.625121  1.0000   0.000
+O4    O    0.000000   0.000000   0.714353  1.0000   0.000
+O5    O    0.333333   0.666667   0.380833  1.0000   0.000
+O6    O    0.666667   0.333333   0.047710  1.0000   0.000
+O7    O    0.000000   0.000000   0.126030  1.0000   0.000
+O8    O    0.333333   0.666667   0.792742  1.0000   0.000
+O9    O    0.666667   0.333333   0.459174  1.0000   0.000
+O10   O    0.000000   0.000000   0.865961  1.0000   0.000
+O11   O    0.333333   0.666667   0.532363  1.0000   0.000
+O12   O    0.666667   0.333333   0.199198  1.0000   0.000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+

@@ -1,0 +1,186 @@
+#
+
+data_sm_global
+#Used dictionaries
+loop_
+_audit_conform_dict_name
+_audit_conform_dict_version
+_audit_conform_dict_location
+cif_core.dic 	2.4.2 	.
+cif_pd.dic 		1.0.1 	.
+cif_sm.dic 		0.1 	'redaktion.landolt-boernstein(at)springer.com'
+
+#About this content and reference
+_sm_credits_copyright
+;PAULING FILE Multinaries Edition - 2012. SpringerMaterials Release 2014.
+http://www.paulingfile.com
+Unique LPF ID Number SD1959711
+Project Coordinator: Shuichi Iwata
+Section-Editors: Karin Cenzual (Crystal Structures), Hiroaki Okamoto (Phase 
+Diagrams), Fritz Hulliger (Physical Properties)
+(c) Springer & Material Phases Data System (MPDS), Switzerland & National 
+Institute for Materials Science (NIMS), Japan 2014.
+(Data generated pre-2002: (c) Springer & MPDS & NIMS; 
+post-2001: (c) Springer & MPDS)
+All Rights Reserved. Version 2014.06.
+;
+
+_audit_creation_method
+;This data have been compiled from the crystallographic datasheet for 
+"KBaYb(BO3)2 (KBaYb[BO3]2) Crystal Structure" 
+taken from SpringerMaterials (sm_isp_sd_1959711).
+;
+
+_publ_section_references
+;Guo S., Kong T., Cevallos F.A., Stolze K., Cava R.J.: <i>Crystal growth, crystal structure and anisotropic magnetic properties of KBaR(BO<sub>3</sub>)<sub>2</sub> (R= Y, Gd, Tb, Dy, Ho, Tm, Yb and Lu) triangular lattice materials</i>. Journal of Magnetism and Magnetic Materials <b>472</b> (2019) 104-110.
+;
+
+#Phase classification
+_sm_phase_labels				'KBaYb[BO3]2'
+_chemical_name_mineral			''
+_sm_chemical_compound_class		'orthoborate'
+_sm_phase_prototype				'K2 Ca[CO3 ]2 '
+_sm_pearson_symbol				'hR33'
+_symmetry_Int_Tables_number		166
+_sm_sample_details
+;sample prepared from KF, Yb<sub>2</sub>O<sub>3</sub>, K<sub>2</sub>CO<sub>3</sub>, BaCO<sub>3</sub>, H<sub>3</sub>BO<sub>3</sub>, 
+single crystal (determination of cell parameters), 
+single crystal, 0.030&#x00d7;0.044&#x00d7;0.084 mm<sup>3</sup> (determination of structural parameters)
+;
+_sm_measurement_details
+;automatic diffractometer (determination of cell parameters), 
+automatic diffractometer; Bruker AXS KAPPA APEX II (determination of structural parameters), 
+X-rays, Mo K&#x03b1;; &#x03bb; = 0.071073 nm (determination of cell and structural parameters), 
+<i>T</i> = 296(2) K (determination of cell and structural parameters)
+;
+_sm_interpretation_details
+;complete structure determined, 
+full-matrix least-squares refinement, 
+<i>R</i> = 0.0211
+;
+
+data_sm_isp_SD1959711-standardized_unitcell
+#Cell Parameters
+_cell_length_a					5.4159
+_cell_length_b					5.4159
+_cell_length_c					17.5629
+_cell_angle_alpha				90
+_cell_angle_beta				90
+_cell_angle_gamma				120
+_sm_length_ratio_ab				1.000
+_sm_length_ratio_bc				0.308
+_sm_length_ratio_ca				3.243
+_cell_volume 					446.1
+_symmetry_space_group_name_H-M	'R-3m'
+_symmetry_Int_Tables_number		166
+_cell_formula_units_Z			3
+_sm_cell_transformation
+;No transformation from published to standardized cell parameters necessary.
+;
+
+#Atom Coordinates
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_sm_site_symmetry
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_sm_coordination_number
+_sm_atomic_environment_type
+O 'O' .18h ..m 0.48076 0.51924 0.25558 1 1 'single atom, B'
+Ba,K '0.5Ba + 0.5K' .6c .3m 0 0 0.21372 1 9 'truncated hexagonal pyramid, O<sub>9</sub>'
+B 'B' .6c .3m 0 0 0.4099 1 3 'non-coplanar triangle , O<sub>3</sub>'
+Yb 'Yb' .3a .-3m 0 0 0 1 6 'octahedron, O<sub>6</sub>'
+
+_sm_atom_site_transformation
+;No transformation from published to standardized cell parameters necessary.
+;
+
+#Isotropic Displacement Parameters
+loop_
+_atom_site_label_1
+_atom_site_U_iso_or_equiv
+_sm_atom_site_isotropic_displacement_parameter_type
+_atom_site_B_equiv_geom_mean
+Yb 0.0000571(6) 'Ueq' ?
+Ba,K 0.0001188(7) 'Ueq' ?
+O 0.000136(3) 'Ueq' ?
+B 0.00007(5) 'Ueq' ?
+
+data_sm_isp_SD1959711-published_cell
+#Cell Parameters
+_cell_length_a					5.4159(1)
+_cell_length_b					5.4159(1)
+_cell_length_c					17.5629(3)
+_cell_angle_alpha				90
+_cell_angle_beta				90
+_cell_angle_gamma				120
+_sm_length_ratio_ab				1.000
+_sm_length_ratio_bc				0.308
+_sm_length_ratio_ca				3.243
+_cell_volume 					446.14
+_symmetry_space_group_name_H-M	'R-3m'
+_symmetry_Int_Tables_number		166
+_cell_formula_units_Z			3
+
+#Atom Coordinates
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_sm_site_symmetry
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_sm_coordination_number
+_sm_atomic_environment_type
+Yb 'Yb' .3a .-3m 0 0 0 1 ? '?'
+Ba,K '0.5Ba + 0.5K' .6c .3m 0 0 0.21372(2) 1 ? '?'
+O 'O' .18h ..m 0.48076(18) 0.51924(18) 0.25558(12) 1 ? '?'
+B 'B' .6c .3m 0 0 0.4099(2) 1 ? '?'
+
+#Isotropic Displacement Parameters
+loop_
+_atom_site_label_1
+_atom_site_U_iso_or_equiv
+_sm_atom_site_isotropic_displacement_parameter_type
+_atom_site_B_equiv_geom_mean
+Yb 0.0000571(6) 'Ueq' ?
+Ba,K 0.0001188(7) 'Ueq' ?
+O 0.000136(3) 'Ueq' ?
+B 0.00007(5) 'Ueq' ?
+
+data_sm_isp_SD1959711-niggli_reduced_cell
+#Cell Parameters
+_cell_length_a					5.4159
+_cell_length_b					5.4159
+_cell_length_c					6.637
+_cell_angle_alpha				65.92
+_cell_angle_beta				65.92
+_cell_angle_gamma				60
+_sm_length_ratio_ab				1.000
+_sm_length_ratio_bc				0.816
+_sm_length_ratio_ca				1.225
+_cell_volume 					148.71
+_symmetry_space_group_name_H-M	''
+_symmetry_Int_Tables_number		?
+_cell_formula_units_Z			3
+
+#Atom Coordinates
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_Wyckoff_symbol
+_sm_site_symmetry
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_sm_coordination_number
+_sm_atomic_environment_type
+? ? ? ? ? ? ? ? ? ?
+
